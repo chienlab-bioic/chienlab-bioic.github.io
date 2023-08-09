@@ -8,11 +8,11 @@ footer: images/background_justine.png
 # site social media and other links
 links:
   email: chienlab521@gmail.com
-  orcid: 
+  #orcid: 
   google-scholar: https://scholar.google.com/citations?user=r5b2ufgAAAAJ&hl=en
-  github: 
-  twitter: 
-  youtube: 
+  #github: 
+  #twitter: 
+  #youtube: 
 
 ### jekyll settings
 
