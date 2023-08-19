@@ -7,6 +7,14 @@ Our group's research focuses on integrated circuits and their convergence with b
 
 {% include section.html %}
 
+{%
+  include figure.html
+  image="images/lab_concept.jpg"
+  caption="Lorem ipsum"
+%}
+
+{% include section.html %}
+
 ## Highlights
 
 {% capture text %}
