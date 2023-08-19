@@ -18,10 +18,10 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Journal
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="publications" filters="group: journal" %}
 
 {% include section.html %}
 
 ## Conference
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="publications" filters="group: conference" %}
