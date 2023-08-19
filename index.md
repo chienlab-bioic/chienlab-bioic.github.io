@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include button.html
-  link="publication"
+  link="research"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="publication"
+  link="research"
   title="Our Work"
   text=text
 %}
