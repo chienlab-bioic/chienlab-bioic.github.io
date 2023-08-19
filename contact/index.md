@@ -22,6 +22,12 @@ Processing Lab: 149 Cory Hall\
 {%
   include button.html
   type="address"
-  text="Our location on Google maps"
+  text="Cory Hall"
   link="https://goo.gl/maps/pTBd6xqvN2YLcHZN9"
+%}
+{%
+  include button.html
+  type="address"
+  text="BWRC"
+  link="https://goo.gl/maps/9wxxnJ69SZKTb75DA"
 %}
