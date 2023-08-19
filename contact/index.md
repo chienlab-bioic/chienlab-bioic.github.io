@@ -11,7 +11,7 @@ Interested in our Research? Please feel free to reach out and email us your CV!\
 \
 PI office: 518 Cory Hall\
 Main Lab: 355 Cory Hall\
-Processing Lab: 149 Cory Hall\
+Processing Lab: 149 Cory Hall
 
 {%
   include button.html
