@@ -1,10 +1,9 @@
 ---
 name: Yiying Lu
 image: images/members/yiying.jpg
-role: researcher
+role: undergrad
 group: Bio
 links:
-  home-page: 
   email: 
 ---
 
