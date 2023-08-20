@@ -6,10 +6,10 @@ header: images/background.png
 footer: images/background.png
 
 # site social media and other links
-links:
-  email: chienlab521@gmail.com
+#links:
+  #email: chienlab521@gmail.com
   #orcid: 
-  google-scholar: https://scholar.google.com/citations?user=r5b2ufgAAAAJ&hl=en
+  #google-scholar: https://scholar.google.com/citations?user=r5b2ufgAAAAJ&hl=en
   #github: 
   #twitter: 
   #youtube: 
