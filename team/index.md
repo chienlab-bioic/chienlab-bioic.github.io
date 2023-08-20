@@ -10,17 +10,21 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
-
 
 {% include section.html %}
 
 ## PhD Students
 
+{% include list.html data="members" component="portrait" filters="role: phd" %}
+
 {% include section.html %}
 
 ## Undergraduate Students
 
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
 {% include section.html %}
 
 ## Alumni
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
