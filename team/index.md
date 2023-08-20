@@ -19,7 +19,8 @@ We currently have 3 PhD students and 6 undergrads in our lab.
 
 {% include section.html %}
 ### Undergraduate students
-
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 {% include section.html %}
 ### Alumni
+{% include list.html data="members" component="portrait" filters="role: alumni" %}
