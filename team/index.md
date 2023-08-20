@@ -9,6 +9,8 @@ nav:
 
 {% include section.html %}
 
+## Our PI!
+
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 
 {% include section.html %}
