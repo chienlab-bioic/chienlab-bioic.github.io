@@ -1,5 +1,5 @@
 ---
-name: John Doe
+name: Wei-Yu Lin
 image: images/members/wei-yu-lin.jpg
 role: phd
 group: RF
