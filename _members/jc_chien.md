@@ -5,7 +5,6 @@ role: pi
 aliases:
   - J. C. Chien
 links:
-  google-scholar: https://scholar.google.com/citations?user=r5b2ufgAAAAJ&hl=en
   email: jcchien@berkeley.edu
 ---
 
