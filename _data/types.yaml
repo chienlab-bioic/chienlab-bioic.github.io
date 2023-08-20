@@ -4,7 +4,7 @@
 
 pi:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Professor
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -18,13 +18,13 @@ undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
-programmer:
+researcher:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Researcher
 
-mascot:
+alumni:
   icon: fa-solid fa-dog
-  description: Mascot
+  description: Alumni
 
 # general
 
