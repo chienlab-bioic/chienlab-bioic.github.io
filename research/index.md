@@ -2,13 +2,12 @@
 title: Research
 nav:
   order: 1
-  tooltip: Software, datasets, and more
+  tooltip: Focused topic and more
 ---
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research focuses on devices for point-of-care diagnostics, and emphasizes continuous monitoring through wearables, implantable devices, injectables, and swallowables. We also explore millimeter-wave ICs for communication, sensing, and interfaces for qubits.
 
 {% include section.html %}
 
