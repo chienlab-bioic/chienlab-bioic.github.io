@@ -2,6 +2,7 @@
 name: Ya-Chen Tsai
 image: images/members/ya-chen-tsai.png
 role: phd
+group: Bio
 aliases:
   - Y. C. Tsai
   - Justine
