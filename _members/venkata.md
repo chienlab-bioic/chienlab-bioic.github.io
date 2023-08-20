@@ -1,5 +1,5 @@
 ---
-name: Vankata Alapati
+name: Venkata Alapati
 image: images/members/venkata.jpg
 role: undergrad
 group: Bio
