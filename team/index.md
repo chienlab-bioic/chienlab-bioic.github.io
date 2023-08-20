@@ -11,8 +11,4 @@ We currently have 3 PhD students and 6 undergrads in our lab.
 
 {% include section.html %}
 
-## Our PI
-
 {% include list.html data="members" component="portrait" filters="role: pi" %}
-
-{% include section.html}
