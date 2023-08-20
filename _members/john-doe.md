@@ -1,10 +1,10 @@
 ---
 name: John Doe
-image: images/photo.jpg
+image: images/members/wei-yu-lin.jpg
 role: phd
-group: alum
+group: RF
 links:
-  github: john-doe
+  email: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Wei-Yu Lin received his B.S. degree from National Taiwan University in electrical engineering and physics. His research interest focuses on quantum devices and RF integrated circuits. 
