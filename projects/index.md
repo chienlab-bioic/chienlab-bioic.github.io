@@ -16,12 +16,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {% include section.html %}
 
-## Journal
-
 {% include list.html component="card" data="publications" filters="group: journal" %}
 
 {% include section.html %}
-
-## Conference
 
 {% include list.html component="card" data="publications" filters="group: conference" %}
