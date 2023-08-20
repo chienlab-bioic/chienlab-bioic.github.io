@@ -11,4 +11,4 @@ links:
   email: justine_tsai@berekley.edu
 ---
 
-Ya-Chen is currently a PhD student. She had her bachelor degree in National Taiwan University, Department of Electrical Engineering. Her research interest focuses on bio-chip design.
+Ya-Chen received her B.S. in National Taiwan University, Department of Electrical Engineering, and joined UC Berkeley as an PhD student in 2023. Her research interest focuses on CMOS-based microsystems for biosensing.
