@@ -1,6 +1,6 @@
 ---
 name: Venkata Alapati
-image: images/members/venkata.jpg
+image: images/members/venkata.jpeg
 role: undergrad
 group: Bio
 links:
