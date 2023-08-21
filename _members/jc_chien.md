@@ -4,6 +4,7 @@ image: images/members/jun-chau-chien.jpg
 role: pi
 aliases:
   - J. C. Chien
+  - Jun-Chau Chien
 links:
   email: jcchien@berkeley.edu
 ---
