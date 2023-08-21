@@ -1,29 +1,6 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-
 - id: doi:10.1109/LMWC.2005.856848
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/32380/1512219/1512219-fig-3-source-large.gif
 
 - id: doi:10.1109/LMWC.2006.882383
   type: journal
@@ -36,3 +13,53 @@
 
 - id: doi:10.1109/JSSC.2007.903058
   group: journal
+
+- id: doi:10.1109/JSSC.2007.903050
+  group: journal
+
+- id: doi:10.1109/LMWC.2007.905634
+  group: journal
+
+- id: doi:10.1109/JSSC.2007.908688
+  group: journal
+
+- id: doi:10.1021/nl2043375
+  group: journal
+
+- id: doi:10.1021/nl301699k
+  group: journal
+
+- id: doi:10.1109/JSSC.2010.2077150
+  group: journal
+
+- id: doi:10.1109/TMTT.2014.2345342
+  group: journal
+
+- id: doi:10.1109/TMTT.2015.2407356
+  group: journal
+
+- id: doi:10.1109/JSSC.2015.2500362
+  group: journal
+
+- id: doi:10.1109/JSSC.2016.2573300
+  group: journal
+
+- id: doi:10.1039/C8LC00299A
+  group: journal
+
+- id: doi:10.1109/JSSC.2019.2951691
+  group: journal
+
+- id: doi:10.1109/JSSC.2020.3020789
+  group: journal
+
+- id: doi:10.1002/adma.202109764
+  group: journal
+
+- id: doi:10.1109/LMWT.2023.3265584
+  group: journal
+
+- id: doi:10.1021/acssensors.3c00509
+  group: journal
+
+
