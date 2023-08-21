@@ -208,7 +208,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-12-01'
   link: https://doi.org/fhbh4f
-  group: journal
+  group: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl2043375
@@ -396,5 +396,494 @@
   date: '2023-06-01'
   link: https://doi.org/gsmsdg
   group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CICC.2005.1568622
+  title: 45.6-GHz matrix distributed amplifier in 0.18-&amp;#x03BC;m CMOS
+  authors:
+  - ' Tai-Yuan Chen'
+  - ' Jun-Chau Chien'
+  - ' Liang-Hung Lu'
+  publisher: Proceedings of the IEEE 2005 Custom Integrated Circuits Conference, 2005.
+  date: ''
+  link: https://doi.org/bmq7vh
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ASSCC.2005.251702
+  title: Ultra-Low-Voltage CMOS Static Frequency Divider
+  authors:
+  - Jun-chau Chien
+  - Liang-hung Lu
+  publisher: 2005 IEEE Asian Solid-State Circuits Conference
+  date: '2005-11-01'
+  link: https://doi.org/cs4hds
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSIC.2006.1705352
+  title: "A 9.5-dB 50-GHz Matrix Distributed Amplifier in 0.18-\u03BCm CMOS"
+  authors:
+  - J.-C. Chien
+  - T.-Y. Chen
+  - L.-H. Lu
+  publisher: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers.
+  date: ''
+  link: https://doi.org/b2f5d2
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSIC.2006.1705368
+  title: A 40-GHz Wide-Tuning-Range VCO in 0.18-~m CMOS
+  authors:
+  - J.-C. Chien
+  - L.-H. Lu
+  publisher: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers.
+  date: ''
+  link: https://doi.org/cmp78x
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSCC.2007.373535
+  title: "40GHz Wide-Locking-Range Regenerative Frequency Divider and Low-Phase-Noise\
+    \ Balanced VCO in 0.18\u03BCm CMOS"
+  authors:
+  - Jun-Chau Chien
+  - Liang-Hung Lu
+  publisher: 2007 IEEE International Solid-State Circuits Conference. Digest of Technical
+    Papers
+  date: '2007-02-01'
+  link: https://doi.org/b4h5p8
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSCC.2010.5433852
+  title: A 90GHz-carrier 30GHz-bandwidth hybrid switching transmitter with integrated
+    antenna
+  authors:
+  - Amin Arbabian
+  - Bagher Afshar
+  - Jun-Chau Chien
+  - Shinwon Kang
+  - Steven Callender
+  - Ehsan Adabi
+  - Stefano Dal Toso
+  - Romain Pilard
+  - Daniel Gloria
+  - Ali Niknejad
+  publisher: 2010 IEEE International Solid-State Circuits Conference - (ISSCC)
+  date: '2010-02-01'
+  link: https://doi.org/c2z74m
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/RFIC.2011.5940606
+  title: A 100GHz phase-locked loop in 0.13&amp;#x00B5;m SiGe BiCMOS process
+  authors:
+  - Shinwon Kang
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: 2011 IEEE Radio Frequency Integrated Circuits Symposium
+  date: '2011-06-01'
+  link: https://doi.org/cx25bq
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/RFIC.2011.5940672
+  title: A 90GHz pulsed-transmitter with near-field/far-field energy cancellation
+    using a dual-loop antenna
+  authors:
+  - Amin Arbabian
+  - Shinwon Kang
+  - Steven Callender
+  - Bagher Afshar
+  - Jun-Chau Chien
+  - Ali Niknejad
+  publisher: 2011 IEEE Radio Frequency Integrated Circuits Symposium
+  date: '2011-06-01'
+  link: https://doi.org/fbtmbc
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2013.2239004
+  title: A 94 GHz mm-Wave-to-Baseband Pulsed-Radar Transceiver with Applications in
+    Imaging and Gesture Recognition
+  authors:
+  - Amin Arbabian
+  - Steven Callender
+  - Shinwon Kang
+  - Mustafa Rangwala
+  - Ali M. Niknejad
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2013-04-01'
+  link: https://doi.org/gsmsfh
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWSYM.2013.6697466
+  title: A 1&amp;#x2013;50 GHz dielectric spectroscopy biosensor with integrated receiver
+    front-end in 65nm CMOS
+  authors:
+  - Jun-Chau Chien
+  - Mekhail Anwar
+  - Erh-Chia Yeh
+  - Luke P. Lee
+  - Ali M. Niknejad
+  publisher: 2013 IEEE MTT-S International Microwave Symposium Digest (MTT)
+  date: '2013-06-01'
+  link: https://doi.org/gsmsfj
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/RFIC.2014.6851712
+  title: A 26-GHz low-phase-error in-phase-coupled QVCO using modified bi-directional
+    diodes
+  authors:
+  - Jun-Chau Chien
+  - Nai-Chung Kuo
+  - Ali M. Niknejad
+  publisher: 2014 IEEE Radio Frequency Integrated Circuits Symposium
+  date: '2014-06-01'
+  link: https://doi.org/gsmsfk
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSCC.2014.6757334
+  title: 2.8 A pulse-position-modulation phase-noise-reduction technique for a 2-to-16GHz
+    injection-locked ring oscillator in 20nm CMOS
+  authors:
+  - Jun-Chau Chien
+  - Parag Upadhyaya
+  - Howard Jung
+  - Stanley Chen
+  - Wayne Fang
+  - Ali M. Niknejad
+  - Jafar Savoj
+  - Ken Chang
+  publisher: 2014 IEEE International Solid-State Circuits Conference Digest of Technical
+    Papers (ISSCC)
+  date: '2014-02-01'
+  link: https://doi.org/ggmx78
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2016.2621036
+  title: CMOS Microflow Cytometer for Magnetic Label Detection and Classification
+  authors:
+  - Pramod Murali
+  - Ali M. Niknejad
+  - Bernhard E. Boser
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2017-02-01'
+  link: https://doi.org/gsmsfm
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWSYM.2014.6848507
+  title: A 6.5/17.5-GHz dual-channel interferometer-based capacitive Sensor in 65-nm
+    CMOS for high-speed flow cytometry
+  authors:
+  - Jun-Chau Chien
+  - Mekhail Anwar
+  - Erh-Chia Yeh
+  - Luke P. Lee
+  - Ali M. Niknejad
+  publisher: 2014 IEEE MTT-S International Microwave Symposium (IMS2014)
+  date: '2014-06-01'
+  link: https://doi.org/gsmsfn
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSIC.2014.6858408
+  title: A 6.5/11/17.5/30-GHz high throughput interferometer-based reactance sensors
+    using injection-locked oscillators and ping-pong nested chopping
+  authors:
+  - Jun-Chau Chien
+  - Mekhail Anwar
+  - ' Erh-Chia Yeh'
+  - Luke P. Lee
+  - Ali M. Niknejad
+  publisher: 2014 Symposium on VLSI Circuits Digest of Technical Papers
+  date: '2014-06-01'
+  link: https://doi.org/gsmsfp
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWSYM.2015.7166871
+  title: A single-element CMOS-based electronic de-embedding technique with TRL level
+    of accuracy
+  authors:
+  - ' Jun-Chau Chien'
+  - Ali M. Niknejad
+  publisher: 2015 IEEE MTT-S International Microwave Symposium
+  date: '2015-05-01'
+  link: https://doi.org/gsmsfq
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ARFTG.2015.7162910
+  title: Impedance renormalization in CMOS-based single-element electronic de-embedding
+  authors:
+  - Jun-Chau Chienand
+  - Ali M. Niknejad
+  publisher: 2015 85th Microwave Measurement Conference (ARFTG)
+  date: '2015-05-01'
+  link: https://doi.org/gsmsfr
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWSYM.2015.7167141
+  title: A microwave reconfigurable dielectric-based glucose sensor with 20 mg/dL
+    sensitivity at sub-nL sensing volume in CMOS
+  authors:
+  - Jun-Chau Chien
+  - Erh-Chia Yeh
+  - Luke P. Lee
+  - Mekhail Anwar
+  - Ali M. Niknejad
+  publisher: 2015 IEEE MTT-S International Microwave Symposium
+  date: '2015-05-01'
+  link: https://doi.org/gsmsfs
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSIC.2015.7231312
+  title: A near-field modulation chopping stabilized injection-locked oscillator sensor
+    for protein conformation detection at microwave frequency
+  authors:
+  - Jun-Chau Chien
+  - Erh-Chia Yeh
+  - Luke P. Lee
+  - Mekhail Anwar
+  - Ali M. Niknejad
+  publisher: 2015 Symposium on VLSI Circuits (VLSI Circuits)
+  date: '2015-06-01'
+  link: https://doi.org/gsmsft
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ARFTG.2015.7381458
+  title: Sensor-on-CMOS dielectric characterization using temperature modulation
+  authors:
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: 2015 86th ARFTG Microwave Measurement Conference
+  date: '2015-12-01'
+  link: https://doi.org/gsmsfv
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWSYM.2017.8058717
+  title: A CMOS single-cell deformability analysis using 3D hydrodynamic stretching
+    in a GHz dielectric flow cytometry
+  authors:
+  - Jun-Chau Chien
+  - Mekhail Anwar
+  - Ali M. Niknejad
+  publisher: 2017 IEEE MTT-S International Microwave Symposium (IMS)
+  date: '2017-06-01'
+  link: https://doi.org/gsmsfw
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SIRF.2018.8304233
+  title: A dual-element VNA electronic calibration in CMOS
+  authors:
+  - Jun-Chau Chien
+  - Amin Arbabian
+  - Ali M. Niknejad
+  publisher: 2018 IEEE 18th Topical Meeting on Silicon Monolithic Integrated Circuits
+    in RF Systems (SiRF)
+  date: '2018-01-01'
+  link: https://doi.org/gsmsfx
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MWSYM.2018.8439332
+  title: A Single- Element VNA Electronic Calibration in CMOS
+  authors:
+  - Jun-Chau Chien
+  - Amin Arbabian
+  - Ali M. Niknejad
+  publisher: 2018 IEEE/MTT-S International Microwave Symposium - IMS
+  date: '2018-06-01'
+  link: https://doi.org/gsmsfz
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSIC.2018.8502293
+  title: A Wireless Implantable Ultrasound Array Receiver for Thermoacoustic Imaging
+  authors:
+  - Ahmed Sawaby
+  - Max L. Wang
+  - Ernest So
+  - Jun-Chau Chien
+  - Hao Nan
+  - Butrus T. Khuri-Yakub
+  - Amin Arbabian
+  publisher: 2018 IEEE Symposium on VLSI Circuits
+  date: '2018-06-01'
+  link: https://doi.org/gsmsf2
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CICC.2019.8780179
+  title: "A 20.1-\u03BCW 1.8 -GHz Near-Field Dielectric Plethysmography (NF-DPG) Heart-Rate\
+    \ Sensor with Time-based Edge Sampling"
+  authors:
+  - Jun-Chau Chien
+  publisher: 2019 IEEE Custom Integrated Circuits Conference (CICC)
+  date: '2019-04-01'
+  link: https://doi.org/gsmsf3
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/VLSIC.2019.8777991
+  title: An Aptamer-based Electrochemical-Sensing Implant for Continuous Therapeutic-
+    Drug Monitoring in vivo
+  authors:
+  - Jun-Chau Chien
+  - Peter L. Mage
+  - H. Tom Soh
+  - Amin Arbabian
+  publisher: 2019 Symposium on VLSI Circuits
+  date: '2019-06-01'
+  link: https://doi.org/gsmsf4
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ISSCC19947.2020.9063036
+  title: 26.4 A Cell-Capacitance-Insensitive CMOS Sample-and-Hold Chronoamperometric
+    Sensor for Real-Time Measurement of Small Molecule Drugs in Whole Blood
+  authors:
+  - Jun-Chau Chien
+  - Hyongsok Tom Soh
+  - Amin Arbabian
+  publisher: 2020 IEEE International Solid- State Circuits Conference - (ISSCC)
+  date: '2020-02-01'
+  link: https://doi.org/gsmsf5
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ARFTG54656.2022.9896578
+  title: A Single-Element CMOS-LRRM VNA Electronic Calibration Technique
+  authors:
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: 2022 99th ARFTG Microwave Measurement Conference (ARFTG)
+  date: '2022-06-24'
+  link: https://doi.org/gsmsf6
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/RFIC54546.2022.9863095
+  title: Millimeter-wave VNA Calibration using a CMOS Transmission Line with Distributed
+    Switches
+  authors:
+  - Jun-Chau Chien
+  publisher: 2022 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
+  date: '2022-06-19'
+  link: https://doi.org/gsmsf7
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/VLSITechnologyandCir46769.2022.9830290
+  title: A Scalable Standing-Wave-Oscillator-based Imager with Near-Field-Modulated
+    Pixels Achieving 64% Filling Factor for RF Intraoperative Imaging
+  authors:
+  - Jun-Chau Chien
+  - Zong-Jun Cheng
+  - Shu-Yan Chuang
+  - Hsiu-Cheng Yeh
+  - Guan-Yu Huang
+  - Hung-Yu Hou
+  - Yi-Ting Chen
+  - Wei-Yang Weng
+  - Chi-Yang Tseng
+  - Liang-In Lin
+  publisher: 2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology
+    and Circuits)
+  date: '2022-06-12'
+  link: https://doi.org/gsmsf8
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BioCAS54905.2022.9948586
+  title: Wireless Monitoring of Small Molecules on a Freely-Moving Animal using Electrochemical
+    Aptamer Biosensors
+  authors:
+  - Jun-Chau Chien
+  - Sam W. Baker
+  - Katherine Gates
+  - Ji-Won Seo
+  - Amin Arbabian
+  - H. Tom Soh
+  publisher: 2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)
+  date: '2022-10-13'
+  link: https://doi.org/gsmsf9
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MEMS49605.2023.10052329
+  title: CMOS-Embedded 3D Micro/Nanofluidics Employing Top-Down Beol Single-Step Wet-Etching
+    Technique
+  authors:
+  - Wei-Yang Weng
+  - Hung-Yu Hou
+  - Yueh-Jung Chao
+  - Shwu-Jen Liaw
+  - Jun-Chau Chien
+  publisher: 2023 IEEE 36th International Conference on Micro Electro Mechanical Systems
+    (MEMS)
+  date: '2023-01-15'
+  link: https://doi.org/gsmsgb
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IMS37964.2023.10188078
+  title: A Thru-Reflect-Series-Resistance (TRS) Calibration for Cryogenic Device Characterization
+    in 40-nm CMOS Technology
+  authors:
+  - Yi-Ting Chen
+  - Ian Huang
+  - Min-Jui Lin
+  - Shu-Yan Chuang
+  - Hua Ling Ho
+  - Kai-Syang Hsu
+  - Pin-Yu Lin
+  - Sih-Ying Chen
+  - Liang-Hung Lu
+  - Shih-Yuan Chen
+  - Jiun-Yun Li
+  - Jun-Chau Chien
+  publisher: 2023 IEEE/MTT-S International Microwave Symposium - IMS 2023
+  date: '2023-06-11'
+  link: https://doi.org/gsmsgc
+  group: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
+  title: A CMOS/Microfluidics Point-of-Care SoC employing Square-Wave Voltcoulometry
+    for Biosensing with Aptamers and CRISPR-Cas12a Enzymes
+  authors:
+  - Yan-Ting Hsiao
+  - Shu-Yan Chuang
+  - Hung-Yu Hou
+  - Yun-Chun Su
+  - Hsiu-Cheng Yeh
+  - Hsin-Tzu Song
+  - Yun-Jui Chang
+  - Wei-Yang Weng
+  - Ya-Chen Tsai
+  - Pin-Yu Lin
+  - Sih-Ying Chen
+  - Yen-Ju Lin
+  - Mei-Wei Lin
+  - Jun-Chau Chien
+  publisher: 2023 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology
+    and Circuits)
+  date: '2023-06-11'
+  link: https://doi.org/gsmsgd
+  group: conference
   plugin: sources.py
   file: sources.yaml
