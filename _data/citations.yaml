@@ -90,27 +90,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -126,33 +110,6 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1109/LMWC.2005.856848
   title: A wide-band CMOS injection-locked ring oscillator
   authors:
@@ -162,6 +119,7 @@
   date: '2005-10-01'
   link: https://doi.org/djvg7b
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/32380/1512219/1512219-fig-3-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2006.882383
@@ -214,6 +172,229 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-09-01'
   link: https://doi.org/fngbx9
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2007.903050
+  title: Design of Wide-Tuning-Range Millimeter-Wave CMOS VCO With a Standing-Wave
+    Architecture
+  authors:
+  - ' Jun-Chau Chien'
+  - ' Liang-Hung Lu'
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2007-09-01'
+  link: https://doi.org/cjfrbg
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LMWC.2007.905634
+  title: A 32-GHz Rotary Traveling-Wave Voltage Controlled Oscillator in 0.18-$\mu{\hbox{m}}$
+    CMOS
+  authors:
+  - Jun-Chau Chien
+  - Liang-Hung Lu
+  publisher: IEEE Microwave and Wireless Components Letters
+  date: '2007-10-01'
+  link: https://doi.org/c8mpth
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2007.908688
+  title: 40-Gb/s High-Gain Distributed Amplifiers With Cascaded Gain Stages in 0.18-$\mu{\hbox
+    {m}}$ CMOS
+  authors:
+  - Jun-Chau Chien
+  - Liang-Hung Lu
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2007-12-01'
+  link: https://doi.org/fhbh4f
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/nl2043375
+  title: Extremely Bendable, High-Performance Integrated Circuits Using Semiconducting
+    Carbon Nanotube Networks for Digital, Analog, and Radio-Frequency Applications
+  authors:
+  - Chuan Wang
+  - Jun-Chau Chien
+  - Kuniharu Takei
+  - Toshitake Takahashi
+  - Junghyo Nah
+  - Ali M. Niknejad
+  - Ali Javey
+  publisher: Nano Letters
+  date: '2012-02-09'
+  link: https://doi.org/ggzkzr
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/nl301699k
+  title: "Self-Aligned, Extremely High Frequency III\u2013V Metal-Oxide-Semiconductor\
+    \ Field-Effect Transistors on Rigid and Flexible Substrates"
+  authors:
+  - Chuan Wang
+  - Jun-Chau Chien
+  - Hui Fang
+  - Kuniharu Takei
+  - Junghyo Nah
+  - E. Plis
+  - Sanjay Krishna
+  - Ali M. Niknejad
+  - Ali Javey
+  publisher: Nano Letters
+  date: '2012-07-03'
+  link: https://doi.org/f35njv
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2010.2077150
+  title: A 90 GHz Hybrid Switching Pulsed-Transmitter for Medical Imaging
+  authors:
+  - Amin Arbabian
+  - Steven Callender
+  - Shinwon Kang
+  - Bagher Afshar
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2010-12-01'
+  link: https://doi.org/bk38vp
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMTT.2014.2345342
+  title: A W-Band Low-Noise PLL With a Fundamental VCO in SiGe for Millimeter-Wave
+    Applications
+  authors:
+  - Shinwon Kang
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: IEEE Transactions on Microwave Theory and Techniques
+  date: '2014-10-01'
+  link: https://doi.org/gsmsdc
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMTT.2015.2407356
+  title: Design and Analysis on Bidirectionally and Passively Coupled QVCO With Nonlinear
+    Coupler
+  authors:
+  - Nai-Chung Kuo
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: IEEE Transactions on Microwave Theory and Techniques
+  date: '2015-04-01'
+  link: https://doi.org/f68nx3
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2015.2500362
+  title: Oscillator-Based Reactance Sensors With Injection Locking for High-Throughput
+    Flow Cytometry Using Microwave Dielectric Spectroscopy
+  authors:
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2016-02-01'
+  link: https://doi.org/gn2pjh
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2016.2573300
+  title: Design and Analysis of Chopper Stabilized Injection-Locked Oscillator Sensors
+    Employing Near-Field Modulation
+  authors:
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2016-08-01'
+  link: https://doi.org/gn2pjj
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1039/C8LC00299A
+  title: A high-throughput flow cytometry-on-a-CMOS platform for single-cell dielectric
+    spectroscopy at microwave frequencies
+  authors:
+  - Jun-Chau Chien
+  - Ali Ameri
+  - Erh-Chia Yeh
+  - Alison N. Killilea
+  - Mekhail Anwar
+  - Ali M. Niknejad
+  publisher: Lab on a Chip
+  date: '2018-01-01'
+  link: https://doi.org/gfb63f
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2019.2951691
+  title: A 1.8-GHz Near-Field Dielectric Plethysmography Heart-Rate Sensor With Time-Based
+    Edge Sampling
+  authors:
+  - Jun-Chau Chien
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2020-03-01'
+  link: https://doi.org/gsmsdd
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2020.3020789
+  title: Design and Analysis of a Sample-and-Hold CMOS Electrochemical Sensor for
+    Aptamer-Based Therapeutic Drug Monitoring
+  authors:
+  - Jun-Chau Chien
+  - Sam W. Baker
+  - H. Tom Soh
+  - Amin Arbabian
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2020-11-01'
+  link: https://doi.org/gsmsdf
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1002/adma.202109764
+  title: Combinatorial Polyacrylamide Hydrogels for Preventing Biofouling on Implantable
+    Biosensors
+  authors:
+  - Doreen Chan
+  - "Jun\u2010Chau Chien"
+  - Eneko Axpe
+  - Louis Blankemeier
+  - Samuel W. Baker
+  - Sarath Swaminathan
+  - Victoria A. Piunova
+  - Dmitry Yu. Zubarev
+  - Caitlin L. Maikawa
+  - Abigail K. Grosskopf
+  - Joseph L. Mann
+  - H. Tom Soh
+  - Eric A. Appel
+  publisher: Advanced Materials
+  date: '2022-05-12'
+  link: https://doi.org/gqk6sn
+  group: journal
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LMWT.2023.3265584
+  title: "A 13-GHz \u201C3-D\u201D Near-Field Imager Employing Programmable Fringing\
+    \ Fields for Cancer Imaging"
+  authors:
+  - Zong-Jun Cheng
+  - Shu-Yan Chuang
+  - Wei-Yang Weng
+  - Guan-Yu Huang
+  - Yan-Huei Li
+  - Fu-Siang Yu
+  - Hsiu-Cheng Yeh
+  - Yu-Cheng Lin
+  - Yun-Jui Chang
+  - Hung-Yu Hou
+  - Yi-Ting Chen
+  - Jun-Chau Chien
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2023-06-01'
+  link: https://doi.org/gsmsdg
   group: journal
   plugin: sources.py
   file: sources.yaml
