@@ -161,7 +161,7 @@
   publisher: IEEE Microwave and Wireless Components Letters
   date: '2005-10-01'
   link: https://doi.org/djvg7b
-  group: journal
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2006.882383
@@ -177,7 +177,7 @@
   publisher: IEEE Microwave and Wireless Components Letters
   date: '2006-10-01'
   link: https://doi.org/d2n4wc
-  group: journal
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.894819
@@ -190,7 +190,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-05-01'
   link: https://doi.org/b4kqvd
-  group: journal
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2007.902071
@@ -202,7 +202,7 @@
   publisher: IEEE Transactions on Microwave Theory and Techniques
   date: '2007-08-01'
   link: https://doi.org/dpq7rn
-  group: journal
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903058
