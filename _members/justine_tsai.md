@@ -5,7 +5,7 @@ role: phd
 group: Bio
 aliases:
   - Y. C. Tsai
-  - Justine
+  - Ya-Chen Tsai
 links:
   home-page: 
   email: justine_tsai@berekley.edu
