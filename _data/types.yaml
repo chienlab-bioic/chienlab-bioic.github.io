@@ -188,6 +188,11 @@ manubot:
   text: Manubot
   tooltip: Manubot
 
+patent:
+  icon: fa-solid fa-box
+  text: Patent
+  tooltip: Patent
+
 # software
 
 docs:
