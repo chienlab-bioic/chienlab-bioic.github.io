@@ -23,16 +23,16 @@
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
 
 - id: doi:10.1109/LMWC.2005.856848
-  group: journal
+  type: journal
 
 - id: doi:10.1109/LMWC.2006.882383
-  group: journal
+  type: journal
 
 - id: doi:10.1109/JSSC.2007.894819
-  group: journal
+  type: journal
 
 - id: doi:10.1109/TMTT.2007.902071
-  group: journal
+  type: journal
 
 - id: doi:10.1109/JSSC.2007.903058
   group: journal
