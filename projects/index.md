@@ -17,7 +17,7 @@ nav:
 
 ## Journals
 
-{% include list.html data="citations" component="citation" style="rich" group="journal" %}
+{% include list.html data="citations" component="citation" style="rich" filter="group: journal" %}
 
 {% include section.html %}
 
