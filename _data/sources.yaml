@@ -174,3 +174,10 @@
 
 #- id: doi:10.1109/CICC.2005.1568622
   #group: conference
+
+# OTHERS
+- id: google patent:US8841948B1
+  group: patent
+
+- id: google patent:US11083388B2
+  group: patent
