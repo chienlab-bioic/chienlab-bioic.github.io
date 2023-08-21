@@ -885,6 +885,7 @@
   date: '2023-06-11'
   link: https://doi.org/gsmsgd
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10185199/10185158/10185383/hsiao1-C8-5-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: google.patent:US8841948B1
