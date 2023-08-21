@@ -1,3 +1,4 @@
+# JOURNAL
 - id: doi:10.1109/LMWC.2005.856848
   type: journal
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/32380/1512219/1512219-fig-3-source-large.gif
@@ -62,4 +63,114 @@
 # - id: doi:10.1021/acssensors.3c00509
   # group: journal
 
+# CONFERENCE
+- id: doi:10.1109/CICC.2005.1568622
+  group: conference
 
+- id: doi:10.1109/ASSCC.2005.251702
+  group: conference
+
+- id: doi:10.1109/VLSIC.2006.1705352
+  group: conference
+
+- id: doi:10.1109/VLSIC.2006.1705368
+  group: conference
+
+- id: doi:10.1109/ISSCC.2007.373535
+  group: conference
+
+- id: doi:10.1109/JSSC.2007.908688
+  group: conference
+
+- id: doi:10.1109/ISSCC.2010.5433852
+  group: conference
+
+- id: doi:10.1109/RFIC.2011.5940606
+  group: conference
+
+- id: doi:10.1109/RFIC.2011.5940672
+  group: conference
+
+- id: doi:10.1109/JSSC.2013.2239004
+  group: conference
+
+- id: doi:10.1109/MWSYM.2013.6697466
+  group: conference
+
+- id: doi:10.1109/RFIC.2014.6851712
+  group: conference
+
+- id: doi:10.1109/ISSCC.2014.6757334
+  group: conference
+
+- id: doi:10.1109/JSSC.2016.2621036
+  group: conference
+
+- id: doi:10.1109/MWSYM.2014.6848507
+  group: conference
+
+- id: doi:10.1109/VLSIC.2014.6858408
+  group: conference
+
+- id: doi:10.1109/MWSYM.2015.7166871
+  group: conference
+
+- id: doi:10.1109/ARFTG.2015.7162910
+  group: conference
+
+- id: doi:10.1109/MWSYM.2015.7167141
+  group: conference
+
+- id: doi:10.1109/VLSIC.2015.7231312
+  group: conference
+
+- id: doi:10.1109/ARFTG.2015.7381458
+  group: conference
+
+- id: doi:10.1109/MWSYM.2017.8058717
+  group: conference
+
+- id: doi:10.1109/SIRF.2018.8304233
+  group: conference
+
+- id: doi:10.1109/MWSYM.2018.8439332
+  group: conference
+
+- id: doi:10.1109/VLSIC.2018.8502293
+  group: conference
+
+- id: doi:10.1109/CICC.2019.8780179
+  group: conference
+
+- id: doi:10.23919/VLSIC.2019.8777991
+  group: conference
+
+- id: doi:10.1109/ISSCC19947.2020.9063036
+  group: conference
+
+- id: doi:10.1109/ARFTG54656.2022.9896578
+  group: conference
+
+- id: doi:10.1109/RFIC54546.2022.9863095
+  group: conference
+
+- id: doi:10.1109/VLSITechnologyandCir46769.2022.9830290
+  group: conference
+
+- id: doi:10.1109/BioCAS54905.2022.9948586
+  group: conference
+
+- id: doi:10.1109/MEMS49605.2023.10052329
+  group: conference
+
+- id: doi:10.1109/IMS37964.2023.10188078
+  group: conference
+
+- id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
+  group: conference
+
+#- id: doi:10.1109/CICC.2005.1568622
+  #group: conference
+
+#- id: doi:10.1109/CICC.2005.1568622
+  #group: conference
