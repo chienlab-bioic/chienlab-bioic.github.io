@@ -1,6 +1,6 @@
 ---
-title: Example post 1
-author: sarah-johnson
+title: DUST chip is taped out!!
+author: Yan-Ting Hsiao, Hung-Yu
 tags:
   - biology
   - medicine
