@@ -5,57 +5,75 @@
 
 - id: doi:10.1109/LMWC.2006.882383
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/35974/1704863/1704863-fig-4-source-large.gif
 
 - id: doi:10.1109/JSSC.2007.894819
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4160057/4160073/4160073-fig-2-source-large.gif
 
 - id: doi:10.1109/TMTT.2007.902071
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/4287157/4287160/4287160-fig-1-source-large.gif
 
 - id: doi:10.1109/JSSC.2007.903058
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4295179/4295184/4295184-fig-1-source-large.gif
 
 - id: doi:10.1109/JSSC.2007.903050
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4295179/4295183/4295183-fig-1-source-large.gif
 
 - id: doi:10.1109/LMWC.2007.905634
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/4336131/4336133/4336133-fig-1-source-large.gif
 
 - id: doi:10.1109/JSSC.2007.908688
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4381435/4381440/4381440-fig-1-source-large.gif
 
 - id: doi:10.1021/nl2043375
   group: journal
+  image: https://pubs.acs.org/cms/10.1021/nl2043375/asset/images/medium/nl-2011-043375_0006.gif
 
 - id: doi:10.1021/nl301699k
   group: journal
+  image: https://pubs.acs.org/cms/10.1021/nl301699k/asset/images/medium/nl-2012-01699k_0001.gif
 
 - id: doi:10.1109/JSSC.2010.2077150
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/5625049/5604327/5604327-fig-1-source-large.gif
 
 - id: doi:10.1109/TMTT.2014.2345342
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/6915782/6878492/6878492-fig-2-source-large.gif
 
 - id: doi:10.1109/TMTT.2015.2407356
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/7078974/7056563/7056563-fig-2-source-large.gif
 
 - id: doi:10.1109/JSSC.2015.2500362
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7398196/7361982/chien1ab-2500362-large.gif
 
 - id: doi:10.1109/JSSC.2016.2573300
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7526339/7501825/chien1-2573300-large.gif
 
 - id: doi:10.1039/C8LC00299A
   group: journal
-
+  image: https://pubs.rsc.org/image/article/2018/lc/c8lc00299a/c8lc00299a-f1_hi-res.gif
+  
 - id: doi:10.1109/JSSC.2019.2951691
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/9011683/8910390/chien1ab-2951691-large.gif
 
 - id: doi:10.1109/JSSC.2020.3020789
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/9237188/9198904/chien1ab-3020789-large.gif
 
 - id: doi:10.1002/adma.202109764
   group: journal
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9793805/bin/nihms-1855823-f0006.jpg
 
 - id: doi:10.1109/LMWT.2023.3265584
   group: journal
@@ -63,6 +81,7 @@
 
 - id: doi:10.1021/acssensors.3c00509
   group: journal
+  image: https://pubs.acs.org/cms/10.1021/acssensors.3c00509/asset/images/medium/se3c00509_0009.gif
 
 # CONFERENCE
 - id: doi:10.1109/CICC.2005.1568622
