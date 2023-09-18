@@ -136,6 +136,7 @@
   date: '2006-10-01'
   link: https://doi.org/d2n4wc
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/35974/1704863/1704863-fig-4-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.894819
@@ -149,6 +150,7 @@
   date: '2007-05-01'
   link: https://doi.org/b4kqvd
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4160057/4160073/4160073-fig-2-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2007.902071
@@ -161,6 +163,7 @@
   date: '2007-08-01'
   link: https://doi.org/dpq7rn
   type: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/4287157/4287160/4287160-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903058
@@ -173,6 +176,7 @@
   date: '2007-09-01'
   link: https://doi.org/fngbx9
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4295179/4295184/4295184-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903050
@@ -185,6 +189,7 @@
   date: '2007-09-01'
   link: https://doi.org/cjfrbg
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4295179/4295183/4295183-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2007.905634
@@ -197,6 +202,7 @@
   date: '2007-10-01'
   link: https://doi.org/c8mpth
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/4336131/4336133/4336133-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.908688
@@ -209,6 +215,7 @@
   date: '2007-12-01'
   link: https://doi.org/fhbh4f
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4381435/4381440/4381440-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl2043375
@@ -226,6 +233,7 @@
   date: '2012-02-09'
   link: https://doi.org/ggzkzr
   group: journal
+  image: https://pubs.acs.org/cms/10.1021/nl2043375/asset/images/medium/nl-2011-043375_0006.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl301699k
@@ -245,6 +253,7 @@
   date: '2012-07-03'
   link: https://doi.org/f35njv
   group: journal
+  image: https://pubs.acs.org/cms/10.1021/nl301699k/asset/images/medium/nl-2012-01699k_0001.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2010.2077150
@@ -260,6 +269,7 @@
   date: '2010-12-01'
   link: https://doi.org/bk38vp
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/5625049/5604327/5604327-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2014.2345342
@@ -273,6 +283,7 @@
   date: '2014-10-01'
   link: https://doi.org/gsmsdc
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/6915782/6878492/6878492-fig-2-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2015.2407356
@@ -286,6 +297,7 @@
   date: '2015-04-01'
   link: https://doi.org/f68nx3
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/7078974/7056563/7056563-fig-2-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2015.2500362
@@ -298,6 +310,7 @@
   date: '2016-02-01'
   link: https://doi.org/gn2pjh
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7398196/7361982/chien1ab-2500362-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2016.2573300
@@ -310,6 +323,7 @@
   date: '2016-08-01'
   link: https://doi.org/gn2pjj
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7526339/7501825/chien1-2573300-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C8LC00299A
@@ -326,6 +340,7 @@
   date: '2018-01-01'
   link: https://doi.org/gfb63f
   group: journal
+  image: https://pubs.rsc.org/image/article/2018/lc/c8lc00299a/c8lc00299a-f1_hi-res.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2019.2951691
@@ -337,6 +352,7 @@
   date: '2020-03-01'
   link: https://doi.org/gsmsdd
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/9011683/8910390/chien1ab-2951691-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2020.3020789
@@ -351,6 +367,7 @@
   date: '2020-11-01'
   link: https://doi.org/gsmsdf
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/9237188/9198904/chien1ab-3020789-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202109764
@@ -374,6 +391,7 @@
   date: '2022-05-12'
   link: https://doi.org/gqk6sn
   group: journal
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9793805/bin/nihms-1855823-f0006.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWT.2023.3265584
@@ -411,6 +429,7 @@
   date: '2023-09-06'
   link: https://doi.org/gsq3ck
   group: journal
+  image: https://pubs.acs.org/cms/10.1021/acssensors.3c00509/asset/images/medium/se3c00509_0009.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2005.1568622
