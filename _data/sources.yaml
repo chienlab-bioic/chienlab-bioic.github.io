@@ -59,9 +59,10 @@
 
 - id: doi:10.1109/LMWT.2023.3265584
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9944983/10144809/10106051/chien1ab-3265584-large.gif
 
-# - id: doi:10.1021/acssensors.3c00509
-  # group: journal
+- id: doi:10.1021/acssensors.3c00509
+  group: journal
 
 # CONFERENCE
 - id: doi:10.1109/CICC.2005.1568622
