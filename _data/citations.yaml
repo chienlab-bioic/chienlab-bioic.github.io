@@ -875,6 +875,7 @@
   date: '2023-06-11'
   link: https://doi.org/gsmsgc
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10187888/10187785/10188078/chen5-p4-chen-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
