@@ -396,6 +396,21 @@
   date: '2023-06-01'
   link: https://doi.org/gsmsdg
   group: journal
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9944983/10144809/10106051/chien1ab-3265584-large.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acssensors.3c00509
+  title: Dual-Aptamer Drift Canceling Techniques to Improve Long-Term Stability of
+    Real-Time Structure-Switching Aptasensors
+  authors:
+  - Ya-Chen Tsai
+  - Wei-Yang Weng
+  - Yu-Tung Yeh
+  - Jun-Chau Chien
+  publisher: ACS Sensors
+  date: '2023-09-06'
+  link: https://doi.org/gsq3ck
+  group: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2005.1568622
