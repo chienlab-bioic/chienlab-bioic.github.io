@@ -166,6 +166,7 @@
 
 - id: doi:10.1109/IMS37964.2023.10188078
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10187888/10187785/10188078/chen5-p4-chen-large.gif
 
 - id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
   group: conference
