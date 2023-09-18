@@ -17,9 +17,13 @@ Our research focuses on devices for point-of-care diagnostics, and emphasizes co
 
 Our goal is to transition from large, stationary instruments to miniature, mobile devices without sacrificing precision or efficiency. We are aiming to make the device so simple to use that everyone can do it at home. We believe such a paradigm shift could democratize healthcare access, making cutting-edge diagnostics available not just in advanced hospitals but also in remote areas and developing nations.
 
+{% include figure.html image="images/research/ckt_microfluidic_biosensor.png" caption="In vitro molecular sensors with CRISPR" %}
+
 ### Wearables, Implantables, Injectables, and Swallables
 
 Real-time "continuous" monitoring of specific biomarkers provides longitudinal data, facilitating not only swift medical decision-making but also early disease detection. Unlike current end-point diagnostic methods, this continuous-monitoring capability adds a new layer of depth to the pursuit of precision medicine and health. Our team designs and develops sensors and systems aligned with this vision. In particular, we harness molecular switches, such as single-stranded DNA, that enable reagent-free, reversible, and immediate responses.
+
+{% include figure.html image="images/research/wearable.png" caption="LED-less heart-rate sensing through fingers" %}
 
 ### High-speed, Millimeter-wave, and Cryogenic CMOS
 
