@@ -1,7 +1,7 @@
 ---
 name: Hung-Yu Hou
 image: images/members/hung-yu-hou.jpg
-role: alumni
+role: ms
 group: Bio
 links:
   email: 
