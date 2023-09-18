@@ -13,6 +13,7 @@ Our group's research focuses on integrated circuits and their convergence with b
   caption="Our research approach"
 %}
 
+<!--
 {% include section.html %}
 
 ## Highlights
@@ -87,3 +88,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+-->
