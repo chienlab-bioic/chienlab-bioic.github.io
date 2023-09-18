@@ -1,7 +1,7 @@
 ---
 name: Yu-Cheng Lin
 image: images/members/yu-cheng-lin.jpg
-role: alumni
+role: ms
 group: Bio
 links:
   email: 
