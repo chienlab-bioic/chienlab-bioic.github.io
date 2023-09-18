@@ -32,8 +32,11 @@ We develop circuits and systems that transcend the typical design trade-offs enc
 ### Sponsors
 
 UC Berkeley Wireless Research Center
+
 UC Berkeley Sensor & Actuator Center
+
 Analog Devices Inc.
+
 
 ### Collaborators
 
