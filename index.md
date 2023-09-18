@@ -7,6 +7,8 @@ Our group's research focuses on integrated circuits and their convergence with b
 
 {%
   include figure.html
+  width = "80%"
+  length = "80%"
   image="images/main.png"
 %}
 
