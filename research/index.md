@@ -11,16 +11,18 @@ Our research focuses on devices for point-of-care diagnostics, and emphasizes co
 
 {% include section.html %}
 
-## Highlighted
+## Circuits, Microfluidics, and Biosensors
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+Our goal is to transition from large, stationary instruments to miniature, mobile devices without sacrificing precision or efficiency. We are aiming to make the device so simple to use that everyone can do it at home. We believe such a paradigm shift could democratize healthcare access, making cutting-edge diagnostics available not just in advanced hospitals but also in remote areas and developing nations.
 
 {% include section.html %}
 
-## All
+## Wearables, Implantables, Injectables, and Swallables
 
-{% include search-box.html %}
+Real-time "continuous" monitoring of specific biomarkers provides longitudinal data, facilitating not only swift medical decision-making but also early disease detection. Unlike current end-point diagnostic methods, this continuous-monitoring capability adds a new layer of depth to the pursuit of precision medicine and health. Our team designs and develops sensors and systems aligned with this vision. In particular, we harness molecular switches, such as single-stranded DNA, that enable reagent-free, reversible, and immediate responses.
 
-{% include search-info.html %}
+{% include section.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+## High-speed, Millimeter-wave, and Cryogenic CMOS
+
+We develop circuits and systems that transcend the typical design trade-offs encountered with standard circuit topologies. to achieve high-speed and low-noise performance yet at high energy and area efficiency. We aim to achieve high-speed, low-noise performance while maintaining high energy and area efficiency.
