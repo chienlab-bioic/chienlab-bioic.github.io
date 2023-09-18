@@ -11,18 +11,38 @@ Our research focuses on devices for point-of-care diagnostics, and emphasizes co
 
 {% include section.html %}
 
-## Circuits, Microfluidics, and Biosensors
+## Topics
+
+### Circuits, Microfluidics, and Biosensors
 
 Our goal is to transition from large, stationary instruments to miniature, mobile devices without sacrificing precision or efficiency. We are aiming to make the device so simple to use that everyone can do it at home. We believe such a paradigm shift could democratize healthcare access, making cutting-edge diagnostics available not just in advanced hospitals but also in remote areas and developing nations.
 
-{% include section.html %}
-
-## Wearables, Implantables, Injectables, and Swallables
+### Wearables, Implantables, Injectables, and Swallables
 
 Real-time "continuous" monitoring of specific biomarkers provides longitudinal data, facilitating not only swift medical decision-making but also early disease detection. Unlike current end-point diagnostic methods, this continuous-monitoring capability adds a new layer of depth to the pursuit of precision medicine and health. Our team designs and develops sensors and systems aligned with this vision. In particular, we harness molecular switches, such as single-stranded DNA, that enable reagent-free, reversible, and immediate responses.
 
-{% include section.html %}
-
-## High-speed, Millimeter-wave, and Cryogenic CMOS
+### High-speed, Millimeter-wave, and Cryogenic CMOS
 
 We develop circuits and systems that transcend the typical design trade-offs encountered with standard circuit topologies. to achieve high-speed and low-noise performance yet at high energy and area efficiency. We aim to achieve high-speed, low-noise performance while maintaining high energy and area efficiency.
+
+{% include section.html %}
+
+## Collaboration & Support
+
+### Sponsors
+
+BWRC, BSAC, Analog Devices Inc.
+
+### Collaborators
+
+Professor H. Tom Soh, Stanford University, weblink
+
+Professor Mekhail Anwar, UCSF and UC Berkeley, weblink
+
+Professor Ali M. Niknejad, University of California, Berkeley, weblink
+
+Professor Chun-Hsing Li, National Taiwan University, weblink
+
+Professor Alp Sipahigil, University of California, Berkeley, weblink
+
+Professor Jiun-Yun Li, National Taiwan University, weblink
