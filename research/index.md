@@ -35,14 +35,14 @@ BWRC, BSAC, Analog Devices Inc.
 
 ### Collaborators
 
-Professor H. Tom Soh, Stanford University, weblink
+Professor H. Tom Soh, Stanford University
 
-Professor Mekhail Anwar, UCSF and UC Berkeley, weblink
+Professor Mekhail Anwar, UCSF and UC Berkeley
 
-Professor Ali M. Niknejad, University of California, Berkeley, weblink
+Professor Ali M. Niknejad, University of California, Berkeley
 
-Professor Chun-Hsing Li, National Taiwan University, weblink
+Professor Chun-Hsing Li, National Taiwan University
 
-Professor Alp Sipahigil, University of California, Berkeley, weblink
+Professor Alp Sipahigil, University of California, Berkeley
 
-Professor Jiun-Yun Li, National Taiwan University, weblink
+Professor Jiun-Yun Li, National Taiwan University
