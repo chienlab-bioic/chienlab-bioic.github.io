@@ -37,9 +37,7 @@ We develop circuits and systems that transcend the typical design trade-offs enc
 
 {% include section.html %}
 
-## Collaboration & Support
-
-### Sponsors
+## Sponsors
 
 UC Berkeley Wireless Research Center
 
@@ -48,16 +46,3 @@ UC Berkeley Sensor & Actuator Center
 Analog Devices Inc.
 
 
-### Collaborators
-
-Professor H. Tom Soh, Stanford University
-
-Professor Mekhail Anwar, UCSF and UC Berkeley
-
-Professor Ali M. Niknejad, University of California, Berkeley
-
-Professor Chun-Hsing Li, National Taiwan University
-
-Professor Alp Sipahigil, University of California, Berkeley
-
-Professor Jiun-Yun Li, National Taiwan University
