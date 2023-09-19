@@ -23,6 +23,8 @@ Our goal is to transition from large, stationary instruments to miniature, mobil
 
 Real-time "continuous" monitoring of specific biomarkers provides longitudinal data, facilitating not only swift medical decision-making but also early disease detection. Unlike current end-point diagnostic methods, this continuous-monitoring capability adds a new layer of depth to the pursuit of precision medicine and health. Our team designs and develops sensors and systems aligned with this vision. In particular, we harness molecular switches, such as single-stranded DNA, that enable reagent-free, reversible, and immediate responses.
 
+{% include figure.html image="images/research/implant_aptamer.png" caption="In-vivo molecular sensing" %}
+
 {% include figure.html image="images/research/wearable.png" caption="LED-less heart-rate sensing through fingers" %}
 
 ### High-speed, Millimeter-wave, and Cryogenic CMOS
