@@ -442,6 +442,7 @@
   date: ''
   link: https://doi.org/bmq7vh
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10489/33245/1568622/1568622-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ASSCC.2005.251702
@@ -453,6 +454,7 @@
   date: '2005-11-01'
   link: https://doi.org/cs4hds
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4017511/4017512/4017568/4017568-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2006.1705352
@@ -465,6 +467,7 @@
   date: ''
   link: https://doi.org/b2f5d2
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11174/35987/1705352/1705352-fig-1-source-small.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2006.1705368
@@ -476,6 +479,7 @@
   date: ''
   link: https://doi.org/cmp78x
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11174/35987/1705368/1705368-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2007.373535
@@ -489,6 +493,7 @@
   date: '2007-02-01'
   link: https://doi.org/b4h5p8
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4242240/4242241/4242506/4242506-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2010.5433852
@@ -509,6 +514,7 @@
   date: '2010-02-01'
   link: https://doi.org/c2z74m
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5428240/5433812/5433852/5433852-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2011.5940606
@@ -521,6 +527,7 @@
   date: '2011-06-01'
   link: https://doi.org/cx25bq
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5930383/5940585/5940606/5940606-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2011.5940672
@@ -537,6 +544,7 @@
   date: '2011-06-01'
   link: https://doi.org/fbtmbc
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5930383/5940585/5940672/5940672-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2013.2239004
@@ -552,6 +560,7 @@
   date: '2013-04-01'
   link: https://doi.org/gsmsfh
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/6484888/6484917/6484917-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2013.6697466
@@ -567,6 +576,7 @@
   date: '2013-06-01'
   link: https://doi.org/gsmsfj
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6684335/6697324/6697466/6697466-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2014.6851712
@@ -580,6 +590,7 @@
   date: '2014-06-01'
   link: https://doi.org/gsmsfk
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6844558/6851613/6851712/6851712-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2014.6757334
@@ -599,6 +610,7 @@
   date: '2014-02-01'
   link: https://doi.org/ggmx78
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6747109/6757318/6757334/6757334-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2016.2621036
@@ -611,6 +623,7 @@
   date: '2017-02-01'
   link: https://doi.org/gsmsfm
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7845730/7762853/mural2-2621036-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2014.6848507
@@ -626,6 +639,7 @@
   date: '2014-06-01'
   link: https://doi.org/gsmsfn
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6842514/6847849/6848507/6848507-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2014.6858408
@@ -653,6 +667,7 @@
   date: '2015-05-01'
   link: https://doi.org/gsmsfq
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7155722/7166703/7166871/7166871-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG.2015.7162910
@@ -664,6 +679,7 @@
   date: '2015-05-01'
   link: https://doi.org/gsmsfr
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7151733/7162886/7162910/7162910-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2015.7167141
@@ -679,6 +695,7 @@
   date: '2015-05-01'
   link: https://doi.org/gsmsfs
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7155722/7166703/7167141/7167141-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2015.7231312
@@ -694,6 +711,7 @@
   date: '2015-06-01'
   link: https://doi.org/gsmsft
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7196579/7231231/7231312/7231312-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG.2015.7381458
@@ -705,6 +723,7 @@
   date: '2015-12-01'
   link: https://doi.org/gsmsfv
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7372351/7381453/7381458/7381458-fig-2-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2017.8058717
@@ -718,6 +737,7 @@
   date: '2017-06-01'
   link: https://doi.org/gsmsfw
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8048779/8058449/8058717/8058717-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SIRF.2018.8304233
@@ -731,6 +751,7 @@
   date: '2018-01-01'
   link: https://doi.org/gsmsfx
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8299650/8304202/8304233/8304233-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2018.8439332
@@ -743,6 +764,7 @@
   date: '2018-06-01'
   link: https://doi.org/gsmsfz
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8417183/8439129/8439332/1218-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2018.8502293
@@ -759,6 +781,7 @@
   date: '2018-06-01'
   link: https://doi.org/gsmsf2
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8484863/8502213/8502293/c18-1-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2019.8780179
@@ -770,6 +793,7 @@
   date: '2019-04-01'
   link: https://doi.org/gsmsf3
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8767369/8780115/8780179/chien1-14-6-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/VLSIC.2019.8777991
@@ -784,6 +808,7 @@
   date: '2019-06-01'
   link: https://doi.org/gsmsf4
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8766307/8777931/8777991/chien1ab-C25-2-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC19947.2020.9063036
@@ -797,6 +822,7 @@
   date: '2020-02-01'
   link: https://doi.org/gsmsf5
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9046640/9062887/9063036/196_2020_D26_04-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG54656.2022.9896578
@@ -808,6 +834,7 @@
   date: '2022-06-24'
   link: https://doi.org/gsmsf6
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9896401/9896407/9896578/chien1-54656_CFP22ARG-P3-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC54546.2022.9863095
@@ -819,6 +846,7 @@
   date: '2022-06-19'
   link: https://doi.org/gsmsf7
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9862947/9862948/9863095/9863095-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSITechnologyandCir46769.2022.9830290
@@ -840,6 +868,7 @@
   date: '2022-06-12'
   link: https://doi.org/gsmsf8
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9830116/9830138/9830290/chien1-p2-chien-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BioCAS54905.2022.9948586
@@ -856,6 +885,7 @@
   date: '2022-10-13'
   link: https://doi.org/gsmsf9
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9948537/9948538/9948586/chien1-p4-chien-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MEMS49605.2023.10052329
@@ -872,6 +902,7 @@
   date: '2023-01-15'
   link: https://doi.org/gsmsgb
   group: conference
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10052111/10052113/10052329/weng1-p4-weng-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IMS37964.2023.10188078
