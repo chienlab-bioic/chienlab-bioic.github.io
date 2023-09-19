@@ -1,6 +1,6 @@
 ---
 name: Khalid Durani
-image: 
+image: images/members/temp.jpeg
 role: undergrad
 group: Bio
 links:
