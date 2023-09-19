@@ -17,7 +17,9 @@ Our research focuses on devices for point-of-care diagnostics, and emphasizes co
 
 Our goal is to transition from large, stationary instruments to miniature, mobile devices without sacrificing precision or efficiency. We are aiming to make the device so simple to use that everyone can do it at home. We believe such a paradigm shift could democratize healthcare access, making cutting-edge diagnostics available not just in advanced hospitals but also in remote areas and developing nations.
 
-{% include figure.html image="images/research/ckt_microfluidic_biosensor.png" caption="In vitro molecular sensors with CRISPR" %}
+{% include figure.html image="images/research/ckt_microfluidic_biosensor.png" caption="In-vitro molecular sensors with CRISPR" %}
+
+{% include figure.html image="images/research/cytometry.png" caption="In-vitro cytometry on CMOS" %}
 
 ### Wearables, Implantables, Injectables, and Swallables
 
