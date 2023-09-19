@@ -1,6 +1,6 @@
 ---
 name: Jessica Fan
-image: 
+image: images/members/temp.jpeg
 role: undergrad
 group: Bio
 links:
