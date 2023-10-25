@@ -1,1 +1,8 @@
-https://berkeley.zoom.us/j/91354331278?pwd=RmdTcGtqOFBZbVhSTU1Rc0VsNFhGdz0
+---
+title: Welcome new members!
+author: Ya-Chen Tsai, Wei Foo, Wei-Yu Lin
+tags:
+  - member
+---
+
+Welcome to our first tier of PhD students!
