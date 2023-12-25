@@ -1,6 +1,6 @@
 ---
 name: Ya-Chen Tsai
-image: images/members/justine.png
+image: images/members/justine_photo.png
 role: phd
 group: Bio
 aliases:
