@@ -1,6 +1,6 @@
 ---
 name: Pin-Yu Lin
-image: images/members/temp.jpeg
+image: images/members/PY_photo.jpg
 role: ms
 group: RF
 links:
