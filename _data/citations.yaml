@@ -141,11 +141,11 @@
   - Jacob D Krol
   - Joseph T Burke
   - Samuel Z Chen
-  - Lo Sosinski
+  - Lo M Sosinski
   - Faisal S Alquaddoomi
   - Evan P Brenner
   - Ethan P Wolfe
-  - Vince P Rubinetti
+  - Vincent P Rubinetti
   - Shaddai Amolitos
   - Kellen M Reason
   - John B Johnston
@@ -1061,13 +1061,11 @@
   plugin: sources.py
   file: sources.yaml
 - id: google.patent:US11083388B2
-  title: Gigahertz frequency fringing near-field cardiovascular sensor
-  authors:
-  - Jun-Chau Chien
-  - Stanley Yuanshih Chen
+  title: ''
+  authors: []
   publisher: ''
-  date: '2021-08-10'
-  link: https://patents.google.com/patent/US11083388B2/en
+  date: ''
+  link: https://www.google.com/patents/US11083388B2
   group: patent
   plugin: sources.py
   file: sources.yaml
