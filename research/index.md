@@ -45,4 +45,12 @@ UC Berkeley Sensor & Actuator Center
 
 Analog Devices Inc.
 
+AMD
+
+National Institute of Health
+
+National Science Foundation
+
+MediaTek Advanced Research Center (MARC)
+
 
