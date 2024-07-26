@@ -31,7 +31,7 @@ Real-time "continuous" monitoring of specific biomarkers provides longitudinal d
 
 ### High-speed, Millimeter-wave, and Cryogenic CMOS
 
-We develop circuits and systems that transcend the typical design trade-offs encountered with standard circuit topologies. to achieve high-speed and low-noise performance yet at high energy and area efficiency. We aim to achieve high-speed, low-noise performance while maintaining high energy and area efficiency.
+We develop circuits and systems that transcend the typical design trade-offs encountered with standard circuit topologies. We aim to achieve high-speed, low-noise performance while maintaining high energy and area efficiency.
 
 {% include figure.html image="images/research/rf.png" caption="Thru reflect series resistance calibration implemented in TSMC 40-nm CMOS technology" width="80%" length="80%" %}
 
