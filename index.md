@@ -9,6 +9,6 @@ Our group's research focuses on integrated circuits and their convergence with b
   include figure.html
   width = "70%"
   length = "70%"
-  image = "images/main.png"
+  image = "images/chienlab_research.jpg"
   caption = "Our research approach"
 %}
