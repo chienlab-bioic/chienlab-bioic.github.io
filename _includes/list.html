@@ -5,7 +5,9 @@
   | data_filter: include.filters
 %}
 
-{% assign years = data
+{% assign sorted_data = data | sort: "grade" %}
+
+{% assign years = sorted_data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
   | reverse
