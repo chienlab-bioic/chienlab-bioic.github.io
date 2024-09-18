@@ -3,6 +3,7 @@ name: Yueting (Lily) Li
 image: images/members/lily-li.jpg
 role: phd
 group: Bio
+grade: 2
 links:
   email: yueting_li@berkeley.edu
   linkedin: https://www.linkedin.com/in/yuetingli/

@@ -3,6 +3,7 @@ name: Venkata Alapati
 image: images/members/venkata.jpeg
 role: undergrad
 group: Bio
+grade: 4
 links:
   email: sarah.johnson@gmail.com
 ---
