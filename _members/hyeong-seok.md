@@ -3,6 +3,7 @@ name: Hyeong-Seok Oh
 image: images/members/hyeongseok.jpg
 role: phd
 group: Photonics
+year: 3
 nav:
   order: 2
 ---
