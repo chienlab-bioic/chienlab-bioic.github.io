@@ -1,7 +1,7 @@
 ---
 name: Jun-Hung Park
 image: images/members/jun-hung-park.jpg
-role: phd
+role: postdoc
 group: Photonics
 grade: 4
 ---
