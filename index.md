@@ -12,3 +12,29 @@ Our group's research focuses on integrated circuits and their convergence with b
   image = "images/chienlab_research.jpg"
   caption = "Our research approach"
 %}
+
+<!-- # Group Gathering -->
+
+# Community Outreach
+
+<div style="display: flex; justify-content: space-around;">
+
+  <div style="width: 45%;">
+    {%
+      include figure.html
+      width = "100%"
+      image = "images/k12_1.jpg"
+      caption = "Community Outreach Event 1"
+    %}
+  </div>
+
+  <div style="width: 45%;">
+    {%
+      include figure.html
+      width = "100%"
+      image = "images/k12_2.jpg"
+      caption = "Community Outreach Event 2"
+    %}
+  </div>
+
+</div>
