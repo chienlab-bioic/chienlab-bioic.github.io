@@ -7,25 +7,71 @@ Our group's research focuses on integrated circuits and their convergence with b
 
 {%
   include figure.html
-  width = "70%"
-  length = "70%"
+  width = "90%"
+  length = "90%"
   image = "images/chienlab_research.jpg"
   caption = "Our research approach"
 %}
 
-<!-- # Group Gathering -->
+# Group Activities
 
-# Community Outreach
+### Group Gathering
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between;">
 
   <div style="width: 45%;">
     {%
       include figure.html
       width = "100%"
-      image = "images/k12_1.jpg"
-      caption = "Community Outreach Event 1"
+      image = "images/lab_dinner_group_gathering.jpg"
+      caption = "2024 Spring Group gathering!"
     %}
+    
+  </div>
+
+  <div style="width: 45%;">
+    {%
+      include figure.html
+      width = "100%"
+      image = "images/lab_dinner_yt_farewell.jpg"
+      caption = "Lab dinner for visiting scholar Yan-Ting!"
+    %}
+  </div>
+
+</div>
+
+### BSAC Seminar
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 45%;">
+    {%
+      include figure.html
+      width = "100%"
+      image = "images/bsac_sp24.JPG"
+      caption = "2024 Spring BSAC IAB Poster Session!"
+    %}
+    
+  </div>
+
+  <div style="width: 45%;">
+    {%
+      include figure.html
+      width = "100%"
+      image = "images/temp.jpg"
+      caption = "Lab dinner for visiting scholar Yan-Ting!"
+    %}
+  </div>
+
+</div>
+
+### Community Outreach
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="width: 45%;">
+    <p>We welcome motivated junior high school and high school students to explore and learn about aptamer and hardware applications through hands-on experience and guidance!</p>
+    
   </div>
 
   <div style="width: 45%;">
@@ -33,8 +79,8 @@ Our group's research focuses on integrated circuits and their convergence with b
       include figure.html
       width = "100%"
       image = "images/k12_2.jpg"
-      caption = "Community Outreach Event 2"
     %}
   </div>
 
 </div>
+
