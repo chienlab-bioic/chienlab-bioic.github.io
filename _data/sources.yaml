@@ -223,11 +223,6 @@
   group: conference
   image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10185199/10185158/10185383/hsiao1-C8-5-large.gif
 
-#- id: doi:10.1109/CICC.2005.1568622
-  #group: conference
-
-#- id: doi:10.1109/CICC.2005.1568622
-  #group: conference
 
 # OTHERS
 - id: google.patent:US8841948B1
