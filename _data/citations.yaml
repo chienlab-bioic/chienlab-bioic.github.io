@@ -211,7 +211,6 @@
   date: '2005-10-01'
   link: https://doi.org/djvg7b
   type: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/32380/1512219/1512219-fig-3-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2006.882383
@@ -228,7 +227,6 @@
   date: '2006-10-01'
   link: https://doi.org/d2n4wc
   type: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/35974/1704863/1704863-fig-4-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.894819
@@ -242,7 +240,6 @@
   date: '2007-05-01'
   link: https://doi.org/b4kqvd
   type: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4160057/4160073/4160073-fig-2-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2007.902071
@@ -255,7 +252,6 @@
   date: '2007-08-01'
   link: https://doi.org/dpq7rn
   type: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/4287157/4287160/4287160-fig-1-source-large.gif
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903058
@@ -267,8 +263,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-09-01'
   link: https://doi.org/fngbx9
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4295179/4295184/4295184-fig-1-source-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903050
@@ -280,8 +275,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-09-01'
   link: https://doi.org/cjfrbg
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4295179/4295183/4295183-fig-1-source-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2007.905634
@@ -293,8 +287,7 @@
   publisher: IEEE Microwave and Wireless Components Letters
   date: '2007-10-01'
   link: https://doi.org/c8mpth
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7260/4336131/4336133/4336133-fig-1-source-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.908688
@@ -306,8 +299,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-12-01'
   link: https://doi.org/fhbh4f
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/4381435/4381440/4381440-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl2043375
@@ -324,8 +316,7 @@
   publisher: Nano Letters
   date: '2012-02-09'
   link: https://doi.org/ggzkzr
-  group: journal
-  image: https://pubs.acs.org/cms/10.1021/nl2043375/asset/images/medium/nl-2011-043375_0006.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl301699k
@@ -344,8 +335,7 @@
   publisher: Nano Letters
   date: '2012-07-03'
   link: https://doi.org/f35njv
-  group: journal
-  image: https://pubs.acs.org/cms/10.1021/nl301699k/asset/images/medium/nl-2012-01699k_0001.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2010.2077150
@@ -360,8 +350,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2010-12-01'
   link: https://doi.org/bk38vp
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/5625049/5604327/5604327-fig-1-source-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2014.2345342
@@ -374,8 +363,7 @@
   publisher: IEEE Transactions on Microwave Theory and Techniques
   date: '2014-10-01'
   link: https://doi.org/gsmsdc
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/6915782/6878492/6878492-fig-2-source-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2015.2407356
@@ -388,8 +376,7 @@
   publisher: IEEE Transactions on Microwave Theory and Techniques
   date: '2015-04-01'
   link: https://doi.org/f68nx3
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/22/7078974/7056563/7056563-fig-2-source-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2015.2500362
@@ -401,8 +388,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2016-02-01'
   link: https://doi.org/gn2pjh
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7398196/7361982/chien1ab-2500362-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2016.2573300
@@ -414,8 +400,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2016-08-01'
   link: https://doi.org/gn2pjj
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7526339/7501825/chien1-2573300-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C8LC00299A
@@ -431,8 +416,7 @@
   publisher: Lab on a Chip
   date: '2018-01-01'
   link: https://doi.org/gfb63f
-  group: journal
-  image: https://pubs.rsc.org/image/article/2018/lc/c8lc00299a/c8lc00299a-f1_hi-res.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2019.2951691
@@ -443,8 +427,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2020-03-01'
   link: https://doi.org/gsmsdd
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/9011683/8910390/chien1ab-2951691-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2020.3020789
@@ -458,8 +441,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2020-11-01'
   link: https://doi.org/gsmsdf
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/9237188/9198904/chien1ab-3020789-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202109764
@@ -482,8 +464,7 @@
   publisher: Advanced Materials
   date: '2022-05-12'
   link: https://doi.org/gqk6sn
-  group: journal
-  image: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9793805/bin/nihms-1855823-f0006.jpg
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWT.2023.3265584
@@ -505,8 +486,7 @@
   publisher: IEEE Microwave and Wireless Technology Letters
   date: '2023-06-01'
   link: https://doi.org/gsmsdg
-  group: journal
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9944983/10144809/10106051/chien1ab-3265584-large.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acssensors.3c00509
@@ -520,8 +500,7 @@
   publisher: ACS Sensors
   date: '2023-09-06'
   link: https://doi.org/gsq3ck
-  group: journal
-  image: https://pubs.acs.org/cms/10.1021/acssensors.3c00509/asset/images/medium/se3c00509_0009.gif
+  type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2005.1568622
@@ -533,8 +512,7 @@
   publisher: Proceedings of the IEEE 2005 Custom Integrated Circuits Conference, 2005.
   date: ''
   link: https://doi.org/bmq7vh
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10489/33245/1568622/1568622-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ASSCC.2005.251702
@@ -545,8 +523,7 @@
   publisher: 2005 IEEE Asian Solid-State Circuits Conference
   date: '2005-11-01'
   link: https://doi.org/cs4hds
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4017511/4017512/4017568/4017568-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2006.1705352
@@ -558,8 +535,7 @@
   publisher: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers.
   date: ''
   link: https://doi.org/b2f5d2
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11174/35987/1705352/1705352-fig-1-source-small.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2006.1705368
@@ -570,8 +546,7 @@
   publisher: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers.
   date: ''
   link: https://doi.org/cmp78x
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/11174/35987/1705368/1705368-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2007.373535
@@ -584,8 +559,7 @@
     Papers
   date: '2007-02-01'
   link: https://doi.org/b4h5p8
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4242240/4242241/4242506/4242506-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2010.5433852
@@ -605,8 +579,7 @@
   publisher: 2010 IEEE International Solid-State Circuits Conference - (ISSCC)
   date: '2010-02-01'
   link: https://doi.org/c2z74m
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5428240/5433812/5433852/5433852-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2011.5940606
@@ -618,8 +591,7 @@
   publisher: 2011 IEEE Radio Frequency Integrated Circuits Symposium
   date: '2011-06-01'
   link: https://doi.org/cx25bq
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5930383/5940585/5940606/5940606-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2011.5940672
@@ -635,8 +607,7 @@
   publisher: 2011 IEEE Radio Frequency Integrated Circuits Symposium
   date: '2011-06-01'
   link: https://doi.org/fbtmbc
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/5930383/5940585/5940672/5940672-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2013.2239004
@@ -651,8 +622,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2013-04-01'
   link: https://doi.org/gsmsfh
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/6484888/6484917/6484917-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2013.6697466
@@ -667,8 +637,7 @@
   publisher: 2013 IEEE MTT-S International Microwave Symposium Digest (MTT)
   date: '2013-06-01'
   link: https://doi.org/gsmsfj
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6684335/6697324/6697466/6697466-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2014.6851712
@@ -681,8 +650,7 @@
   publisher: 2014 IEEE Radio Frequency Integrated Circuits Symposium
   date: '2014-06-01'
   link: https://doi.org/gsmsfk
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6844558/6851613/6851712/6851712-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2014.6757334
@@ -701,8 +669,7 @@
     Papers (ISSCC)
   date: '2014-02-01'
   link: https://doi.org/ggmx78
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6747109/6757318/6757334/6757334-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2016.2621036
@@ -714,8 +681,7 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2017-02-01'
   link: https://doi.org/gsmsfm
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/4/7845730/7762853/mural2-2621036-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2014.6848507
@@ -730,8 +696,7 @@
   publisher: 2014 IEEE MTT-S International Microwave Symposium (IMS2014)
   date: '2014-06-01'
   link: https://doi.org/gsmsfn
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6842514/6847849/6848507/6848507-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2014.6858408
@@ -746,7 +711,7 @@
   publisher: 2014 Symposium on VLSI Circuits Digest of Technical Papers
   date: '2014-06-01'
   link: https://doi.org/gsmsfp
-  group: conference
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2015.7166871
@@ -758,8 +723,7 @@
   publisher: 2015 IEEE MTT-S International Microwave Symposium
   date: '2015-05-01'
   link: https://doi.org/gsmsfq
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7155722/7166703/7166871/7166871-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG.2015.7162910
@@ -770,8 +734,7 @@
   publisher: 2015 85th Microwave Measurement Conference (ARFTG)
   date: '2015-05-01'
   link: https://doi.org/gsmsfr
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7151733/7162886/7162910/7162910-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2015.7167141
@@ -786,8 +749,7 @@
   publisher: 2015 IEEE MTT-S International Microwave Symposium
   date: '2015-05-01'
   link: https://doi.org/gsmsfs
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7155722/7166703/7167141/7167141-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2015.7231312
@@ -802,8 +764,7 @@
   publisher: 2015 Symposium on VLSI Circuits (VLSI Circuits)
   date: '2015-06-01'
   link: https://doi.org/gsmsft
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7196579/7231231/7231312/7231312-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG.2015.7381458
@@ -814,8 +775,7 @@
   publisher: 2015 86th ARFTG Microwave Measurement Conference
   date: '2015-12-01'
   link: https://doi.org/gsmsfv
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/7372351/7381453/7381458/7381458-fig-2-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2017.8058717
@@ -828,8 +788,7 @@
   publisher: 2017 IEEE MTT-S International Microwave Symposium (IMS)
   date: '2017-06-01'
   link: https://doi.org/gsmsfw
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8048779/8058449/8058717/8058717-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SIRF.2018.8304233
@@ -842,8 +801,7 @@
     in RF Systems (SiRF)
   date: '2018-01-01'
   link: https://doi.org/gsmsfx
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8299650/8304202/8304233/8304233-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2018.8439332
@@ -855,8 +813,7 @@
   publisher: 2018 IEEE/MTT-S International Microwave Symposium - IMS
   date: '2018-06-01'
   link: https://doi.org/gsmsfz
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8417183/8439129/8439332/1218-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2018.8502293
@@ -872,8 +829,7 @@
   publisher: 2018 IEEE Symposium on VLSI Circuits
   date: '2018-06-01'
   link: https://doi.org/gsmsf2
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8484863/8502213/8502293/c18-1-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2019.8780179
@@ -884,8 +840,7 @@
   publisher: 2019 IEEE Custom Integrated Circuits Conference (CICC)
   date: '2019-04-01'
   link: https://doi.org/gsmsf3
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8767369/8780115/8780179/chien1-14-6-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/VLSIC.2019.8777991
@@ -899,8 +854,7 @@
   publisher: 2019 Symposium on VLSI Circuits
   date: '2019-06-01'
   link: https://doi.org/gsmsf4
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/8766307/8777931/8777991/chien1ab-C25-2-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC19947.2020.9063036
@@ -913,8 +867,7 @@
   publisher: 2020 IEEE International Solid- State Circuits Conference - (ISSCC)
   date: '2020-02-01'
   link: https://doi.org/gsmsf5
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9046640/9062887/9063036/196_2020_D26_04-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG54656.2022.9896578
@@ -925,8 +878,7 @@
   publisher: 2022 99th ARFTG Microwave Measurement Conference (ARFTG)
   date: '2022-06-24'
   link: https://doi.org/gsmsf6
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9896401/9896407/9896578/chien1-54656_CFP22ARG-P3-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC54546.2022.9863095
@@ -937,8 +889,7 @@
   publisher: 2022 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
   date: '2022-06-19'
   link: https://doi.org/gsmsf7
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9862947/9862948/9863095/9863095-fig-1-source-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSITechnologyandCir46769.2022.9830290
@@ -959,8 +910,7 @@
     and Circuits)
   date: '2022-06-12'
   link: https://doi.org/gsmsf8
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9830116/9830138/9830290/chien1-p2-chien-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BioCAS54905.2022.9948586
@@ -976,8 +926,7 @@
   publisher: 2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)
   date: '2022-10-13'
   link: https://doi.org/gsmsf9
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9948537/9948538/9948586/chien1-p4-chien-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MEMS49605.2023.10052329
@@ -993,8 +942,7 @@
     (MEMS)
   date: '2023-01-15'
   link: https://doi.org/gsmsgb
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10052111/10052113/10052329/weng1-p4-weng-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IMS37964.2023.10188078
@@ -1016,8 +964,7 @@
   publisher: 2023 IEEE/MTT-S International Microwave Symposium - IMS 2023
   date: '2023-06-11'
   link: https://doi.org/gsmsgc
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10187888/10187785/10188078/chen5-p4-chen-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
@@ -1042,8 +989,7 @@
     and Circuits)
   date: '2023-06-11'
   link: https://doi.org/gsmsgd
-  group: conference
-  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/10185199/10185158/10185383/hsiao1-C8-5-large.gif
+  type: conference
   plugin: sources.py
   file: sources.yaml
 - id: google.patent:US8841948B1
@@ -1057,7 +1003,7 @@
   publisher: ''
   date: '2014-09-23'
   link: https://patents.google.com/patent/US8841948B1/en
-  group: patent
+  type: patent
   plugin: sources.py
   file: sources.yaml
 - id: google.patent:US11083388B2
@@ -1068,6 +1014,6 @@
   publisher: ''
   date: '2021-08-10'
   link: https://patents.google.com/patent/US11083388B2/en
-  group: patent
+  type: patent
   plugin: sources.py
   file: sources.yaml
