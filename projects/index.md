@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" %}
 
 {% include section.html %}
 
