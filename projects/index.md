@@ -15,18 +15,7 @@ nav:
 
 {% include section.html %}
 
-## Journals
-
-{% include list.html data="citations" component="citation" filters="group: journal" %}
+{% include list.html data="citations" component="citation" %}
 
 {% include section.html %}
 
-## Conferences
-
-{% include list.html data="citations" component="citation" style="rich" filters="group: conference" %}
-
-{% include section.html %}
-
-## Others
-
-{% include list.html data="citations" component="citation" style="rich" filters="group: patent" %}
