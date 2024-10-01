@@ -989,7 +989,7 @@
     and Circuits)
   date: '2023-06-11'
   link: https://doi.org/gsmsgd
-  button:
+  tags:
   - type: conference
   plugin: sources.py
   file: sources.yaml
