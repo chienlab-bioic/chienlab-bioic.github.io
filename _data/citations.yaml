@@ -8,7 +8,8 @@
   publisher: IEEE Microwave and Wireless Components Letters
   date: '2005-10-01'
   link: https://doi.org/djvg7b
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2006.882383
@@ -24,7 +25,8 @@
   publisher: IEEE Microwave and Wireless Components Letters
   date: '2006-10-01'
   link: https://doi.org/d2n4wc
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.894819
@@ -37,7 +39,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-05-01'
   link: https://doi.org/b4kqvd
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2007.902071
@@ -49,7 +52,8 @@
   publisher: IEEE Transactions on Microwave Theory and Techniques
   date: '2007-08-01'
   link: https://doi.org/dpq7rn
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903058
@@ -61,7 +65,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-09-01'
   link: https://doi.org/fngbx9
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.903050
@@ -73,7 +78,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-09-01'
   link: https://doi.org/cjfrbg
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWC.2007.905634
@@ -85,7 +91,8 @@
   publisher: IEEE Microwave and Wireless Components Letters
   date: '2007-10-01'
   link: https://doi.org/c8mpth
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2007.908688
@@ -97,7 +104,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2007-12-01'
   link: https://doi.org/fhbh4f
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl2043375
@@ -114,7 +122,8 @@
   publisher: Nano Letters
   date: '2012-02-09'
   link: https://doi.org/ggzkzr
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/nl301699k
@@ -133,7 +142,8 @@
   publisher: Nano Letters
   date: '2012-07-03'
   link: https://doi.org/f35njv
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2010.2077150
@@ -148,7 +158,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2010-12-01'
   link: https://doi.org/bk38vp
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2014.2345342
@@ -161,7 +172,8 @@
   publisher: IEEE Transactions on Microwave Theory and Techniques
   date: '2014-10-01'
   link: https://doi.org/gsmsdc
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TMTT.2015.2407356
@@ -174,7 +186,8 @@
   publisher: IEEE Transactions on Microwave Theory and Techniques
   date: '2015-04-01'
   link: https://doi.org/f68nx3
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2015.2500362
@@ -186,7 +199,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2016-02-01'
   link: https://doi.org/gn2pjh
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2016.2573300
@@ -198,7 +212,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2016-08-01'
   link: https://doi.org/gn2pjj
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1039/C8LC00299A
@@ -214,7 +229,8 @@
   publisher: Lab on a Chip
   date: '2018-01-01'
   link: https://doi.org/gfb63f
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2019.2951691
@@ -225,7 +241,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2020-03-01'
   link: https://doi.org/gsmsdd
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2020.3020789
@@ -239,7 +256,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2020-11-01'
   link: https://doi.org/gsmsdf
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/adma.202109764
@@ -262,7 +280,8 @@
   publisher: Advanced Materials
   date: '2022-05-12'
   link: https://doi.org/gqk6sn
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWT.2023.3265584
@@ -284,7 +303,8 @@
   publisher: IEEE Microwave and Wireless Technology Letters
   date: '2023-06-01'
   link: https://doi.org/gsmsdg
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1021/acssensors.3c00509
@@ -298,7 +318,8 @@
   publisher: ACS Sensors
   date: '2023-09-06'
   link: https://doi.org/gsq3ck
-  type: journal
+  tags:
+  - type: journal
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2005.1568622
@@ -310,7 +331,8 @@
   publisher: Proceedings of the IEEE 2005 Custom Integrated Circuits Conference, 2005.
   date: ''
   link: https://doi.org/bmq7vh
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ASSCC.2005.251702
@@ -321,7 +343,8 @@
   publisher: 2005 IEEE Asian Solid-State Circuits Conference
   date: '2005-11-01'
   link: https://doi.org/cs4hds
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2006.1705352
@@ -333,7 +356,8 @@
   publisher: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers.
   date: ''
   link: https://doi.org/b2f5d2
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2006.1705368
@@ -344,7 +368,8 @@
   publisher: 2006 Symposium on VLSI Circuits, 2006. Digest of Technical Papers.
   date: ''
   link: https://doi.org/cmp78x
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2007.373535
@@ -357,7 +382,8 @@
     Papers
   date: '2007-02-01'
   link: https://doi.org/b4h5p8
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2010.5433852
@@ -377,7 +403,8 @@
   publisher: 2010 IEEE International Solid-State Circuits Conference - (ISSCC)
   date: '2010-02-01'
   link: https://doi.org/c2z74m
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2011.5940606
@@ -389,7 +416,8 @@
   publisher: 2011 IEEE Radio Frequency Integrated Circuits Symposium
   date: '2011-06-01'
   link: https://doi.org/cx25bq
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2011.5940672
@@ -405,7 +433,8 @@
   publisher: 2011 IEEE Radio Frequency Integrated Circuits Symposium
   date: '2011-06-01'
   link: https://doi.org/fbtmbc
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2013.2239004
@@ -420,7 +449,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2013-04-01'
   link: https://doi.org/gsmsfh
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2013.6697466
@@ -435,7 +465,8 @@
   publisher: 2013 IEEE MTT-S International Microwave Symposium Digest (MTT)
   date: '2013-06-01'
   link: https://doi.org/gsmsfj
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC.2014.6851712
@@ -448,7 +479,8 @@
   publisher: 2014 IEEE Radio Frequency Integrated Circuits Symposium
   date: '2014-06-01'
   link: https://doi.org/gsmsfk
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC.2014.6757334
@@ -467,7 +499,8 @@
     Papers (ISSCC)
   date: '2014-02-01'
   link: https://doi.org/ggmx78
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JSSC.2016.2621036
@@ -479,7 +512,8 @@
   publisher: IEEE Journal of Solid-State Circuits
   date: '2017-02-01'
   link: https://doi.org/gsmsfm
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2014.6848507
@@ -494,7 +528,8 @@
   publisher: 2014 IEEE MTT-S International Microwave Symposium (IMS2014)
   date: '2014-06-01'
   link: https://doi.org/gsmsfn
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2014.6858408
@@ -509,7 +544,8 @@
   publisher: 2014 Symposium on VLSI Circuits Digest of Technical Papers
   date: '2014-06-01'
   link: https://doi.org/gsmsfp
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2015.7166871
@@ -521,7 +557,8 @@
   publisher: 2015 IEEE MTT-S International Microwave Symposium
   date: '2015-05-01'
   link: https://doi.org/gsmsfq
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG.2015.7162910
@@ -532,7 +569,8 @@
   publisher: 2015 85th Microwave Measurement Conference (ARFTG)
   date: '2015-05-01'
   link: https://doi.org/gsmsfr
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2015.7167141
@@ -547,7 +585,8 @@
   publisher: 2015 IEEE MTT-S International Microwave Symposium
   date: '2015-05-01'
   link: https://doi.org/gsmsfs
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2015.7231312
@@ -562,7 +601,8 @@
   publisher: 2015 Symposium on VLSI Circuits (VLSI Circuits)
   date: '2015-06-01'
   link: https://doi.org/gsmsft
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG.2015.7381458
@@ -573,7 +613,8 @@
   publisher: 2015 86th ARFTG Microwave Measurement Conference
   date: '2015-12-01'
   link: https://doi.org/gsmsfv
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2017.8058717
@@ -586,7 +627,8 @@
   publisher: 2017 IEEE MTT-S International Microwave Symposium (IMS)
   date: '2017-06-01'
   link: https://doi.org/gsmsfw
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SIRF.2018.8304233
@@ -599,7 +641,8 @@
     in RF Systems (SiRF)
   date: '2018-01-01'
   link: https://doi.org/gsmsfx
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MWSYM.2018.8439332
@@ -611,7 +654,8 @@
   publisher: 2018 IEEE/MTT-S International Microwave Symposium - IMS
   date: '2018-06-01'
   link: https://doi.org/gsmsfz
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSIC.2018.8502293
@@ -627,7 +671,8 @@
   publisher: 2018 IEEE Symposium on VLSI Circuits
   date: '2018-06-01'
   link: https://doi.org/gsmsf2
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2019.8780179
@@ -638,7 +683,8 @@
   publisher: 2019 IEEE Custom Integrated Circuits Conference (CICC)
   date: '2019-04-01'
   link: https://doi.org/gsmsf3
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/VLSIC.2019.8777991
@@ -652,7 +698,8 @@
   publisher: 2019 Symposium on VLSI Circuits
   date: '2019-06-01'
   link: https://doi.org/gsmsf4
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ISSCC19947.2020.9063036
@@ -665,7 +712,8 @@
   publisher: 2020 IEEE International Solid- State Circuits Conference - (ISSCC)
   date: '2020-02-01'
   link: https://doi.org/gsmsf5
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ARFTG54656.2022.9896578
@@ -676,7 +724,8 @@
   publisher: 2022 99th ARFTG Microwave Measurement Conference (ARFTG)
   date: '2022-06-24'
   link: https://doi.org/gsmsf6
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/RFIC54546.2022.9863095
@@ -687,7 +736,8 @@
   publisher: 2022 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
   date: '2022-06-19'
   link: https://doi.org/gsmsf7
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/VLSITechnologyandCir46769.2022.9830290
@@ -708,7 +758,8 @@
     and Circuits)
   date: '2022-06-12'
   link: https://doi.org/gsmsf8
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BioCAS54905.2022.9948586
@@ -724,7 +775,8 @@
   publisher: 2022 IEEE Biomedical Circuits and Systems Conference (BioCAS)
   date: '2022-10-13'
   link: https://doi.org/gsmsf9
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/MEMS49605.2023.10052329
@@ -740,7 +792,8 @@
     (MEMS)
   date: '2023-01-15'
   link: https://doi.org/gsmsgb
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/IMS37964.2023.10188078
@@ -762,7 +815,8 @@
   publisher: 2023 IEEE/MTT-S International Microwave Symposium - IMS 2023
   date: '2023-06-11'
   link: https://doi.org/gsmsgc
-  type: conference
+  tags:
+  - type: conference
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
@@ -802,7 +856,8 @@
   publisher: ''
   date: '2014-09-23'
   link: https://patents.google.com/patent/US8841948B1/en
-  type: patent
+  tags:
+  - type: patent
   plugin: sources.py
   file: sources.yaml
 - id: google.patent:US11083388B2
@@ -813,6 +868,7 @@
   publisher: ''
   date: '2021-08-10'
   link: https://patents.google.com/patent/US11083388B2/en
-  type: patent
+  tags:
+  - type: patent
   plugin: sources.py
   file: sources.yaml
