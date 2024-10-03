@@ -11,13 +11,13 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
+{% include tags.html tags="journal, conference, patent" %}
 
 {% include search-info.html %}
 
 {% include section.html %}
 
-{% include list.html data="citations" component="citation" style="rich"%}
+{% include list.html data="citations" component="citation" style="small"%}
 
 {% include section.html %}
 
