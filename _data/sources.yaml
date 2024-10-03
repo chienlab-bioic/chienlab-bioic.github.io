@@ -1,169 +1,224 @@
 # JOURNAL
 - id: doi:10.1109/LMWC.2005.856848
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/LMWC.2006.882383
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2007.894819
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/TMTT.2007.902071
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2007.903058
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2007.903050
-  type: journal
+  tags:
+  - type: journal
  
 - id: doi:10.1109/LMWC.2007.905634
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2007.908688
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1021/nl2043375
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1021/nl301699k
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2010.2077150
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/TMTT.2014.2345342
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/TMTT.2015.2407356
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2015.2500362
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2016.2573300
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1039/C8LC00299A
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2019.2951691
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/JSSC.2020.3020789
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1002/adma.202109764
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1109/LMWT.2023.3265584
-  type: journal
+  tags:
+  - type: journal
   
 - id: doi:10.1021/acssensors.3c00509
-  type: journal
+  tags:
+  - type: journal
   
 # CONFERENCE
 - id: doi:10.1109/CICC.2005.1568622
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ASSCC.2005.251702
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/VLSIC.2006.1705352
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/VLSIC.2006.1705368
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ISSCC.2007.373535
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/JSSC.2007.908688
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ISSCC.2010.5433852
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/RFIC.2011.5940606
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/RFIC.2011.5940672
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/JSSC.2013.2239004
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/MWSYM.2013.6697466
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/RFIC.2014.6851712
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ISSCC.2014.6757334
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/JSSC.2016.2621036
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/MWSYM.2014.6848507
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/VLSIC.2014.6858408
-  type: conference
+  tags:
+  - type: conference
 
 - id: doi:10.1109/MWSYM.2015.7166871
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ARFTG.2015.7162910
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/MWSYM.2015.7167141
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/VLSIC.2015.7231312
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ARFTG.2015.7381458
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/MWSYM.2017.8058717
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/SIRF.2018.8304233
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/MWSYM.2018.8439332
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/VLSIC.2018.8502293
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/CICC.2019.8780179
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.23919/VLSIC.2019.8777991
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ISSCC19947.2020.9063036
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/ARFTG54656.2022.9896578
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/RFIC54546.2022.9863095
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/VLSITechnologyandCir46769.2022.9830290
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/BioCAS54905.2022.9948586
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/MEMS49605.2023.10052329
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.1109/IMS37964.2023.10188078
-  type: conference
+  tags:
+  - type: conference
   
 - id: doi:10.23919/VLSITechnologyandCir57934.2023.10185383
   tags:
@@ -172,7 +227,9 @@
 
 # OTHERS
 - id: google.patent:US8841948B1
-  type: patent
+  tags:
+  - type: patent
 
 - id: google.patent:US11083388B2
-  type: patent
+  tags:
+  - type: patent
