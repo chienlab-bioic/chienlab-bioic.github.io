@@ -40,7 +40,7 @@ Our group's research focuses on integrated circuits and their convergence with b
 
 </div>
 
-### BSAC Seminar
+### BSAC Events
 
 <div style="display: flex; justify-content: space-between;">
 
