@@ -1,7 +1,7 @@
 ---
 title: CLEO paper acceptance!
 author: Hyeong Seok Oh and Jun-Chau Chien
-tags:  
+tags:   
   - paper
 ---
 
