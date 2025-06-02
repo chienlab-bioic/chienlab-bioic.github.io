@@ -1,6 +1,6 @@
 ---
 title: Nature Biomedical Engineering paper acceptance!
-author: Yihang Chen, Prof. Tom Soh @ Stanford University
+author: Yihang Chen, Prof. H. Tom Soh @ Stanford University
 tags:    
   - paper
 ---
