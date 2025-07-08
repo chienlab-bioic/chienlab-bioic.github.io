@@ -2,7 +2,7 @@
 title: CLEO paper acceptance!
 author: Hyeong Seok Oh and Jun-Chau Chien
 tags:   
-  - paper
+  - Publication
 ---
 
 Congrats to the NSF-Fuse team with two paper acceptance to CELO! Information below:

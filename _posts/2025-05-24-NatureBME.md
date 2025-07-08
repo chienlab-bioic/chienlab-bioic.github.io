@@ -2,7 +2,7 @@
 title: Nature Biomedical Engineering paper acceptance!
 author: Yihang Chen, Prof. H. Tom Soh @ Stanford University
 tags:    
-  - paper
+  - Publication
 ---
 Congratulations to Dr. Yihang Chen on his paper publication in Nature Biomedical Engineering! Paper title: "A biochemical sensor with continuous extended stabiity in vivo". Paper link: https://www.nature.com/articles/s41551-025-01389-6. 
 

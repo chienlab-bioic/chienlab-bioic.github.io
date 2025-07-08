@@ -2,7 +2,7 @@
 title: Workshop presentation at VLSI Symposium 2025
 author: Jun-Chau Chien
 tags:    
-  - Workshop on Bio interface
+  - Workshop
 ---
 Jun-Chau will be presenting at the VLSI workshop: Recent Advances in CMOS Cellular and Molecular Biosensors. Please see program here: https://www.vlsisymposium.org/workshop/workshop2025_6/.
 
