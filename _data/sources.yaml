@@ -84,6 +84,10 @@
   - type: journal
   
 # CONFERENCE
+- id: 10.1109/IEDM50854.2024.10873317
+  tags:
+  - type: conference
+
 - id: doi:10.1109/CICC.2005.1568622
   tags:
   - type: conference

@@ -1,0 +1,66 @@
+---
+---
+
+.portraitalumni-wrapper {
+  display: contents;
+}
+
+.portrait-alumni {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  gap: 0.5rem;
+  margin: 0.5rem 0;
+  padding: 0.5rem;
+  border-left: 4px solid #ccc;
+  background-color: #f9f9f9;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+
+.portraitalumni[data-style="small"] {
+  width: 100px;
+}
+
+.portraitalumni[data-style="tiny"] {
+  flex-direction: row;
+  gap: 15px;
+  width: unset;
+  text-align: left;
+}
+
+.portraitalumni[data-style="tiny"] .portraitalumni-role {
+  display: none;
+}
+
+.portraitalumni-text {
+  display: flex;
+  flex-direction: column;
+  line-height: calc(var(--spacing) - 0.4);
+}
+
+.portraitalumni-name {
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+}
+
+.portraitalumni-role .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  background: var(--background);
+  box-shadow: var(--shadow);
+  transform: translate(14%, 14%);
+}
+
+.portraitalumni[data-style="small"] .portraitalumni-role .icon {
+  left: -2px;
+  top: -2px;
+}

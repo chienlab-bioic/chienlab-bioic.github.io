@@ -41,4 +41,4 @@ nav:
 
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+{% include list.html data="members" component="portraitalumni" filters="role: alumni" %}
