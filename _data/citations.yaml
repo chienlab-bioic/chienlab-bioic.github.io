@@ -322,6 +322,22 @@
   - type: journal
   plugin: sources.py
   file: sources.yaml
+- id: 10.1109/IEDM50854.2024.10873317
+  title: Subtractive Microfluidics in CMOS
+  authors:
+  - Wei-Yang Weng
+  - Alexander Di
+  - Xiang Zhang
+  - Ya-Chen Tsai
+  - Yan-Ting Hsiao
+  - Jun-Chau Chien
+  publisher: 2024 IEEE International Electron Devices Meeting (IEDM)
+  date: '2024-12-07'
+  link: https://doi.org/g9sp4f
+  tags:
+  - type: conference
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/CICC.2005.1568622
   title: 45.6-GHz matrix distributed amplifier in 0.18-&amp;#x03BC;m CMOS
   authors:
