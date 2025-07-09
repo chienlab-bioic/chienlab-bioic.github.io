@@ -15,6 +15,12 @@ nav:
 
 {% include section.html %}
 
+## Postdoc Researchers
+
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
+{% include section.html %}
+
 ## PhD Students
 
 {% include list.html data="members" component="portrait" filters="role: phd" %}
