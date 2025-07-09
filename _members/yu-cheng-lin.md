@@ -1,7 +1,7 @@
 ---
 name: Yu-Cheng Lin
 image: images/members/yu-cheng-lin.jpg
-role: ms
+role: alumni
 group: Bio
 grade: 2
 ---

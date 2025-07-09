@@ -1,7 +1,7 @@
 ---
 name: Pin-Yu Lin
 image: images/members/PY_photo.jpg
-role: ms
+role: alumni
 group: RF
 grade: 2
 ---

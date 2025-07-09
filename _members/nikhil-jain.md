@@ -1,8 +1,8 @@
 ---
 name: Nikhil Jain
 image: images/members/nikhil-jain.jpg
-role: RF
-group: Bio
+role: phd
+group: RF
 grade: 1
 ---
 

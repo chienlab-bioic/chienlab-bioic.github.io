@@ -1,7 +1,7 @@
 ---
 name: Venkata Alapati
 image: images/members/venkata.jpeg
-role: undergrad
+role: alumni
 group: Bio
 grade: 4
 links:

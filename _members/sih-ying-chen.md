@@ -1,7 +1,7 @@
 ---
 name: Sih-Ying Chen
 image: images/members/sih-ying-chen.jpg
-role: ms
+role: alumni
 group: RF
 grade: 2
 ---

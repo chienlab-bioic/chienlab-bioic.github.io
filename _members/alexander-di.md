@@ -1,9 +1,9 @@
 ---
 name: Alexander Di
 image: images/members/alex.jpg
-role: undergrad
+role: phd
 group: Bio
-grade: 4
+grade: 1
 ---
 
 N/A

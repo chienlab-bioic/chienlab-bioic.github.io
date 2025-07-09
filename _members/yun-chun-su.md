@@ -1,7 +1,7 @@
 ---
 name: Yun-Chun Su
 image: images/members/YC_photo.jpg
-role: ms
+role: alumni
 group: Bio
 grade: 2
 ---

@@ -1,9 +1,9 @@
 ---
 name: Madekeine McSwain
 image: images/members/mimi.jpeg
-role: undergrad
+role: alumni
 group: Bio
-grade: 3
+grade: 4
 ---
 
 N/A
