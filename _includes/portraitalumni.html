@@ -12,7 +12,7 @@
   >
    
 
-    {% if member.name or member.role or member.description %}
+    {% if member.name or member.description %}
       <span class="portraitalumni-text">
         {% if member.name %}
           <span class="portraitalumni-name">
@@ -20,14 +20,10 @@
           </span>
         {% endif %}
 
-        {% if member.role or member.description %}
-          <span class="portraitalumni-role">
-            {% assign type = site.data.types[member.role] %}
-            {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
-          </span>
+        {% if member.description %}
+          <span>{{ member.description | default: type.description }}</span>
         {% endif %}
       </span>
     {% endif %}
-  </a>
+
 </div>
