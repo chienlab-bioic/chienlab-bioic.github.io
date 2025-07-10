@@ -1,8 +1,10 @@
 .portraitalumni-wrapper {
   display: contents;
+  text-align: left;
+  width: 100%;
 }
 
-.portrait-alumni {
+.portraitalumni {
   display: flex;
   flex-direction: row;
   align-items: baseline;
@@ -13,6 +15,7 @@
   background-color: #f9f9f9;
   font-size: 1rem;
   line-height: 1.4;
+  justify-content: flex-start;
 }
 
 .portraitalumni[data-style=small] {
