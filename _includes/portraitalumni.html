@@ -10,20 +10,22 @@
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member" }}"
   >
-   
+  
+  {% assign type = site.data.types[member.role] %}
+  {% include icon.html icon=type.icon class="portraitalumni-icon" %}
 
-    {% if member.name or member.description %}
-      <span class="portraitalumni-text">
-        {% if member.name %}
-          <span class="portraitalumni-name">
-            {{ member.name }}
-          </span>
-        {% endif %}
+  <span class="portraitalumni-text">
+    <span class="portraitalumni-name">{{ member.name }}</span>
 
-        {% if member.description %}
-          <span>{{ member.description | default: type.description }}</span>
-        {% endif %}
+    {% if member.joined and member.date %}
+      <span class="portraitalumni-years">
+        ({{ member.joined | date: "%Y" }}–{{ member.date | date: "%Y" }})
       </span>
     {% endif %}
+
+    {% if member.description %}
+      — {{ member.description }}
+    {% endif %}
+  </span>
 
 </div>

@@ -26,12 +26,12 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
 {% include section.html %}
-
+<!-- 
 ## MS Students
 
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 
-{% include section.html %}
+{% include section.html %} -->
 
 ## Undergraduate Students
 

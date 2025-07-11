@@ -1,7 +1,7 @@
 ---
 name: Ellie Sara Huang
 image: images/members/ellie-huang.jpg
-role: undergrad
+role: alumni
 group: Bio
 grade: 4
 ---

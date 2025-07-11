@@ -1,7 +1,7 @@
 ---
 name: Jessica Fan
 image: images/members/temp.jpeg
-role: undergrad
+role: alumni
 group: Bio
 grade: 4
 ---
