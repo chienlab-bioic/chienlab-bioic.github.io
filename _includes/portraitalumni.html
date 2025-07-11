@@ -10,16 +10,16 @@
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member" }}"
   >
-  
+
   {% assign type = site.data.types[member.role] %}
   {% include icon.html icon=type.icon class="portraitalumni-icon" %}
 
   <span class="portraitalumni-text">
     <span class="portraitalumni-name">{{ member.name }}</span>
 
-    {% if member.joined and member.date %}
+    {% if member.date %}
       <span class="portraitalumni-years">
-        ({{ member.joined | date: "%Y" }}–{{ member.date | date: "%Y" }})
+        ({{ member.date | date: "%Y" }})
       </span>
     {% endif %}
 
