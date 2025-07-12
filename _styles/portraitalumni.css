@@ -1,47 +1,43 @@
 .portraitalumni-wrapper {
   display: contents;
-  text-align: left;
-  width: 100%;
 }
 
 .portraitalumni {
-  display: flex;
-  flex-direction: row;
-  align-items: baseline;
-  gap: 0.1rem;
-  margin: 0.1rem 0;
-  padding: 0.1rem;
-  border-left: 4px solid #ccc;
-  background-color: #f9f9f9;
-  font-size: 1rem;
-  line-height: 1.4;
-  justify-content: flex-start;
-}
-
-.portraitalumni[data-style=small] {
-  width: 100px;
-}
-
-.portraitalumni[data-style=tiny] {
-  flex-direction: row;
-  gap: 15px;
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: left;
+  gap: 10px;
+  margin: 20px;
   width: unset;
+  max-width: calc(100% - 20px - 20px);
   text-align: left;
-}
-
-.portraitalumni[data-style=tiny] .portraitalumni-role {
-  display: none;
 }
 
 .portraitalumni-text {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   line-height: calc(var(--spacing) - 0.4);
 }
 
 .portraitalumni-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
+}
+
+.portraitalumni-role .icon {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+  aspect-ratio: 1/1;
+  border-radius: 999px;
+  background: var(--background);
+  box-shadow: var(--shadow);
+  transform: translate(14%, 14%);
 }
 
 /*# sourceMappingURL=portraitalumni.css.map */
