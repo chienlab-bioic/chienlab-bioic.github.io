@@ -9,45 +9,17 @@
   position: relative;
   display: inline-flex;
   justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  gap: 20px;
+  align-items: left;
+  gap: 10px;
   margin: 20px;
-  width: 175px;
-  max-width: calc(100% - 20px - 20px);
-  text-decoration: none;
-}
-
-.portraitalumni[data-style="small"] {
-  width: 100px;
-}
-
-.portraitalumni[data-style="tiny"] {
-  flex-direction: row;
-  gap: 15px;
   width: unset;
+  max-width: calc(100% - 20px - 20px);
   text-align: left;
-}
-
-.portraitalumni-image {
-  width: 100%;
-  aspect-ratio: 1 / 1;
-  border-radius: 999px;
-  object-fit: cover;
-  box-shadow: var(--shadow);
-}
-
-.portraitalumni[data-style="tiny"] .portraitalumni-image {
-  width: 50px;
-}
-
-.portraitalumni[data-style="tiny"] .portraitalumni-role {
-  display: none;
 }
 
 .portraitalumni-text {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   line-height: calc(var(--spacing) - 0.4);
 }
 
@@ -69,9 +41,4 @@
   background: var(--background);
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
-}
-
-.portraitalumni[data-style="small"] .portraitalumni-role .icon {
-  left: -2px;
-  top: -2px;
 }
