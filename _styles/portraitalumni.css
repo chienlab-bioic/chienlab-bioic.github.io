@@ -16,7 +16,7 @@
 
 .portraitalumni-text {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   line-height: calc(var(--spacing) - 0.4);
 }
 
@@ -27,7 +27,7 @@
 
 .portraitalumni-role .icon {
   position: absolute;
-  left: 0;
+  left: -2px;
   top: 0;
   display: flex;
   justify-content: center;
@@ -38,6 +38,8 @@
   background: var(--background);
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
+  font-family: var(--heading);
+  font-weight: var(--italian);
 }
 
 /*# sourceMappingURL=portraitalumni.css.map */
