@@ -13,18 +13,18 @@
 
   {% if member.name or member.role or member.description %}
       <span class="portraitalumni-text">
-        {% if member.name %}
-          <span class="portraitalumni-name">
-            {{ member.name }}
-          </span>
-        {% endif %}
-
         {% if member.role %}
           <span class="portraitalumni-role">
 
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
-            <span>{{ member.description | default: type.description }}</span>
+
+          </span>
+        {% endif %}
+
+        {% if member.name %}
+          <span class="portraitalumni-name">
+            {{ member.name }}
           </span>
         {% endif %}
 
