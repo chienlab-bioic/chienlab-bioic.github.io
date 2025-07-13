@@ -322,6 +322,20 @@
   - type: journal
   plugin: sources.py
   file: sources.yaml
+- id: 10.1109/LSSC.2025.3578942
+  title: A Millimeter-Wave Standing-Wave Oscillator With Frequency-Specific Wave-Velocity
+    Control Demonstrating Class-F Effects
+  authors:
+  - Wei-Yu Lin
+  - Jun-Chau Chien
+  publisher: IEEE Solid-State Circuits Letters
+  date: '2025-01-01'
+  link: https://doi.org/g9s3tg
+  tags:
+  - type: conference
+  - topic: RF
+  plugin: sources.py
+  file: sources.yaml
 - id: 10.1109/IEDM50854.2024.10873317
   title: Subtractive Microfluidics in CMOS
   authors:
