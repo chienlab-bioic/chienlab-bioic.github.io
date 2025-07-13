@@ -26,8 +26,8 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd" %}
 
 {% include section.html %}
-<!-- 
-## MS Students
+
+<!-- ## MS Students
 
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 

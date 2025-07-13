@@ -28,11 +28,16 @@
           </span>
         {% endif %}
 
-        {% if member.left_year %}
-          hi
-          <span class="portraitalumni-years">
-            {{ member.left_year }}
+        {% if member.alum_year %}
+          
+          <span class="portraitalumni-alumyear">
+            {{ member.alum_year }}
           </span>
+
+          <span class="portraitalumni-alumrole">
+            {{ member.alum_role }}
+          </span>
+
         {% endif %}
 
       </span>
