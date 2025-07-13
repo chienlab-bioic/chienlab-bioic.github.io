@@ -26,24 +26,21 @@
 
 .portraitalumni-years {
   font-family: var(--heading);
-  font-weight: var(--italian);
+  font-weight: var(--semi-bold);
 }
 
 .portraitalumni-role .icon {
-  position: absolute;
-  left: -2px;
-  top: 0;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 20%;
-  aspect-ratio: 1/1;
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
   border-radius: 999px;
   background: var(--background);
   box-shadow: var(--shadow);
   transform: translate(14%, 14%);
-  font-family: var(--heading);
-  font-weight: var(--italian);
 }
 
 /*# sourceMappingURL=portraitalumni.css.map */
