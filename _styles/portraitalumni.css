@@ -24,9 +24,15 @@
   font-weight: var(--semi-bold);
 }
 
-.portraitalumni-years {
+.portraitalumni-alumyear {
   font-family: var(--heading);
-  font-weight: var(--semi-bold);
+  font-weight: var(--italian);
+}
+
+.portraitalumni-alumrole {
+  font-family: var(--heading);
+  font-weight: var(--regular);
+  font-style: italic;
 }
 
 .portraitalumni-role .icon {
