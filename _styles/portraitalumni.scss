@@ -7,25 +7,30 @@
 
 .portraitalumni {
   position: relative;
-  display: inline-flex;
-  justify-content: center;
+  display: flex;
+  flex-direction: row;
   align-items: left;
   gap: 10px;
-  margin: 20px;
-  width: unset;
-  max-width: calc(100% - 20px - 20px);
+  margin: 10px;
+  width: 100%;
+  // max-width: calc(100% - 20px - 20px);
   text-align: left;
 }
 
 .portraitalumni-text {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   line-height: calc(var(--spacing) - 0.4);
 }
 
 .portraitalumni-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
+}
+
+.portraitalumni-years {
+  font-family: var(--heading);
+  font-weight: var(--italian);
 }
 
 .portraitalumni-role .icon {

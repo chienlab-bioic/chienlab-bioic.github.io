@@ -19,13 +19,21 @@
           </span>
         {% endif %}
 
-        {% if member.years %}
+        {% if member.role %}
           <span class="portraitalumni-role">
+            hhh
             {% assign type = site.data.types[member.role] %}
             {% include icon.html icon=type.icon %}
-            <span>{{ member.years | default: type.description }}</span>
+            <span>{{ member.description | default: type.description }}</span>
           </span>
         {% endif %}
+
+        {% if member.years %}
+          <span class="portraitalumni-years">
+            {{ member.years }}
+          </span>
+        {% endif %}
+        
       </span>
     {% endif %}
     </div>

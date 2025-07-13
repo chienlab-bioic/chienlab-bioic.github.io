@@ -1,5 +1,5 @@
 ---
-name: Madekeine McSwain
+name: Madeleine McSwain
 image: images/members/mimi.jpeg
 role: alumni
 group: Bio
