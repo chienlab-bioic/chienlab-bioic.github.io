@@ -26,15 +26,14 @@
 
 .portraitalumni-alumyear {
   font-family: var(--heading);
-  font-weight: var(--thin);
   font-style: italic;
-  margin-left: 0.5rem;
+  margin-left: 2px;
 }
 
 .portraitalumni-alumrole {
   font-family: var(--heading);
   font-weight: var(--regular);
-  margin-left: 0.5rem;
+  margin-left: 2px;
 }
 
 .portraitalumni-role .icon {
