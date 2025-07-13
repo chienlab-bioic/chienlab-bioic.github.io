@@ -84,6 +84,11 @@
   - type: journal
   
 # CONFERENCE
+- id: 10.1109/LSSC.2025.3578942 # 2025 classF VCO letter
+  tags:
+  - type: conference
+  - topic: RF
+
 - id: 10.1109/IEDM50854.2024.10873317
   tags:
   - type: conference
