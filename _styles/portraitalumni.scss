@@ -13,7 +13,6 @@
   gap: 10px;
   margin: 10px;
   width: 100%;
-  // max-width: calc(100% - 20px - 20px);
   text-align: left;
 }
 
@@ -30,16 +29,15 @@
 
 .portraitalumni-alumyear {
   font-family: var(--heading);
-  // font-weight: var(--thin);
   font-style : italic;
-  margin-left: 2px;
+  font-weight: var(--thin);
+  margin-left: 10px;
 }
 
 .portraitalumni-alumrole {
   font-family: var(--heading);
   font-weight: var(--regular);
-  margin-left: 2px;
-
+  margin-left: 10px;
 }
 
 .portraitalumni-role .icon {
