@@ -4,18 +4,14 @@
   | default: emptyarray
   | data_filter: include.filters
 %}
+<!-- sort data -->
+{% assign data_with_year = data | where: "alum_year", true %}
+{% assign data_without_year = data | where_exp: "item", "item.alum_year == nil" %}
 
-<!-- {% assign sorted_data = data | sort: "grade" | reverse %}
+{% assign data_with_year = data_with_year | sort: "alum_year" | reverse %}
+{% assign data_without_year = data_without_year | sort: "grade" | reverse %}
 
-{% assign sorted_data = data | sort: "alum_year" | reverse %}  -->
-
-{% for d in data %}
-  {% assign sort_key = d.alum_year | default: d.grade %}
-  {% assign d = d | merge: "sort_key:" | append: sort_key %}
-  {% assign sorted_data = sorted_data | push: d %}
-{% endfor %}
-
-{% assign sorted_data = sorted_data | sort: "sort_key" | reverse %}
+{% assign sorted_data = data_with_year | concat: data_without_year %}
 
 {% assign years = sorted_data
   | group_by_exp: "d", "d.date | date: '%Y'"

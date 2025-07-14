@@ -87,11 +87,37 @@
 - id: 10.1109/LSSC.2025.3578942 # 2025 classF VCO letter
   tags:
   - type: conference
-  - topic: RF
+  - RF
 
-- id: 10.1109/IEDM50854.2024.10873317
+- id: 10.1109/LMWT.2025.3569450 # 2025 RFIC
   tags:
   - type: conference
+  - RF
+
+- id: 10.1109/ISSCC49661.2025.10904714 # 2025 ISSCC DUST
+  tags:
+    - type: conference
+    - Bio
+
+- id: 10.1109/CICC63670.2025.10983591 # 2025 CICC 8 channel
+  tags:
+    - type: conference
+    - Bio
+      
+- id: 10.1109/IEDM50854.2024.10873317 # 2024 IEDM sub uF
+  tags:
+    - type: conference
+    - Bio
+
+- id: 10.1109/LMWT.2024.3388933 # 60GHz PLL
+  tags:
+  - type: conference
+  - RF
+
+- id: 10.1109/JMEMS.2023.3326973 # Impedance sensing Wei-Yang
+  tags:
+  - type: conference
+  - RF
 
 - id: doi:10.1109/CICC.2005.1568622
   tags:
@@ -235,6 +261,18 @@
   
 
 # OTHERS
+- id: US12036008B2
+  tags:
+  - type: patent
+
+- id: US20240208806A1
+  tags:
+  - type: patent
+
+- id: google.patent:US20240316548A1
+  tags:
+  - type: patent
+
 - id: google.patent:US8841948B1
   tags:
   - type: patent
