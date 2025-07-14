@@ -84,37 +84,37 @@
   - type: journal
   
 # CONFERENCE
-- id: 10.1109/LSSC.2025.3578942 # 2025 classF VCO letter
+- id: doi:10.1109/LSSC.2025.3578942 # 2025 classF VCO letter
   tags:
   - type: conference
   - RF
 
-- id: 10.1109/LMWT.2025.3569450 # 2025 RFIC
+- id: doi:10.1109/LMWT.2025.3569450 # 2025 RFIC
   tags:
   - type: conference
   - RF
 
-- id: 10.1109/ISSCC49661.2025.10904714 # 2025 ISSCC DUST
+- id: doi:10.1109/ISSCC49661.2025.10904714 # 2025 ISSCC DUST
   tags:
     - type: conference
     - Bio
 
-- id: 10.1109/CICC63670.2025.10983591 # 2025 CICC 8 channel
+- id: doi:10.1109/CICC63670.2025.10983591 # 2025 CICC 8 channel
   tags:
     - type: conference
     - Bio
       
-- id: 10.1109/IEDM50854.2024.10873317 # 2024 IEDM sub uF
+- id: doi:10.1109/IEDM50854.2024.10873317 # 2024 IEDM sub uF
   tags:
     - type: conference
     - Bio
 
-- id: 10.1109/LMWT.2024.3388933 # 60GHz PLL
+- id: doi:10.1109/LMWT.2024.3388933 # 60GHz PLL
   tags:
   - type: conference
   - RF
 
-- id: 10.1109/JMEMS.2023.3326973 # Impedance sensing Wei-Yang
+- id: doi:10.1109/JMEMS.2023.3326973 # Impedance sensing Wei-Yang
   tags:
   - type: conference
   - RF
