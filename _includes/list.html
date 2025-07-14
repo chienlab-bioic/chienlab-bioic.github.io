@@ -5,9 +5,17 @@
   | data_filter: include.filters
 %}
 
-{% assign sorted_data = data | sort: "grade" | reverse %}
+<!-- {% assign sorted_data = data | sort: "grade" | reverse %}
 
-{% assign sorted_data = data | sort: "alum_year" | reverse %} 
+{% assign sorted_data = data | sort: "alum_year" | reverse %}  -->
+
+{% for d in data %}
+  {% assign sort_key = d.alum_year | default: d.grade %}
+  {% assign d = d | merge: "sort_key:" | append: sort_key %}
+  {% assign sorted_data = sorted_data | push: d %}
+{% endfor %}
+
+{% assign sorted_data = sorted_data | sort: "sort_key" | reverse %}
 
 {% assign years = sorted_data
   | group_by_exp: "d", "d.date | date: '%Y'"
