@@ -322,7 +322,7 @@
   - type: journal
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/LSSC.2025.3578942
+- id: doi:10.1109/LSSC.2025.3578942
   title: A Millimeter-Wave Standing-Wave Oscillator With Frequency-Specific Wave-Velocity
     Control Demonstrating Class-F Effects
   authors:
@@ -336,7 +336,7 @@
   - RF
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/LMWT.2025.3569450
+- id: doi:10.1109/LMWT.2025.3569450
   title: Experimental Studies of Millimeter-Wave CMOS LO Circuits for High-Temperature
     Qubits Operations
   authors:
@@ -353,7 +353,7 @@
   - RF
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/ISSCC49661.2025.10904714
+- id: doi:10.1109/ISSCC49661.2025.10904714
   title: 20.3 An RFID-Inspired One-Step Packaged Multimode Bio-Analyzer with Vacuum
     Microfluidics for Point-of-Care Diagnostics
   authors:
@@ -372,7 +372,7 @@
   - Bio
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/CICC63670.2025.10983591
+- id: doi:10.1109/CICC63670.2025.10983591
   title: A 0.7pA<sub>rms</sub> Electrochemical Readout IC for Continuous Monitoring
     of Antibody Biologics in Upstream Biomanufacturing
   authors:
@@ -389,7 +389,7 @@
   - Bio
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/IEDM50854.2024.10873317
+- id: doi:10.1109/IEDM50854.2024.10873317
   title: Subtractive Microfluidics in CMOS
   authors:
   - Wei-Yang Weng
@@ -406,7 +406,7 @@
   - Bio
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/LMWT.2024.3388933
+- id: doi:10.1109/LMWT.2024.3388933
   title: A 60-GHz Phase-Locked Loop Using Standing- Wave Oscillator for Clock Distribution
     in 2-D Phased-Array
   authors:
@@ -422,7 +422,7 @@
   - RF
   plugin: sources.py
   file: sources.yaml
-- id: 10.1109/JMEMS.2023.3326973
+- id: doi:10.1109/JMEMS.2023.3326973
   title: Impedance Sensing in CMOS-Embedded Microfluidics Using BEOL Electrodes
   authors:
   - Wei-Yang Weng
