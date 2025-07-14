@@ -5,13 +5,13 @@
   | data_filter: include.filters
 %}
 <!-- sort data -->
-{% assign data_with_year = data | where: "alum_year", true %}
-{% assign data_without_year = data | where_exp: "item", "item.alum_year == nil" %}
+{% assign with_year = data | where_exp: "item", "item.alum_year" %}
+{% assign without_year = data | where_exp: "item", "item.alum_year == nil" %}
 
-{% assign data_with_year = data_with_year | sort: "alum_year" | reverse %}
-{% assign data_without_year = data_without_year | sort: "grade" | reverse %}
+{% assign with_year = with_year | sort: "alum_year" | reverse %}
+{% assign without_year = without_year | sort: "grade" | reverse %}
 
-{% assign sorted_data = data_with_year | concat: data_without_year %}
+{% assign sorted_data = with_year | concat: without_year %}
 
 {% assign years = sorted_data
   | group_by_exp: "d", "d.date | date: '%Y'"
