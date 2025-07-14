@@ -333,7 +333,60 @@
   link: https://doi.org/g9s3tg
   tags:
   - type: conference
-  - topic: RF
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/LMWT.2025.3569450
+  title: Experimental Studies of Millimeter-Wave CMOS LO Circuits for High-Temperature
+    Qubits Operations
+  authors:
+  - Yi-Ting Chen
+  - Guan-Yu Huang
+  - Min-Jui Lin
+  - Jiun-Yun Li
+  - Jun-Chau Chien
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2025-01-01'
+  link: https://doi.org/g9s6b5
+  tags:
+  - type: conference
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/ISSCC49661.2025.10904714
+  title: 20.3 An RFID-Inspired One-Step Packaged Multimode Bio-Analyzer with Vacuum
+    Microfluidics for Point-of-Care Diagnostics
+  authors:
+  - Yan-Ting Hsiao
+  - Ya-Chen Tsai
+  - Wei Foo
+  - Hung-Yu Hou
+  - Yun-Chun Su
+  - Yueting Lily Li
+  - Jun-Chau Chien
+  publisher: 2025 IEEE International Solid-State Circuits Conference (ISSCC)
+  date: '2025-02-16'
+  link: https://doi.org/g9s6b6
+  tags:
+  - type: conference
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/CICC63670.2025.10983591
+  title: A 0.7pA<sub>rms</sub> Electrochemical Readout IC for Continuous Monitoring
+    of Antibody Biologics in Upstream Biomanufacturing
+  authors:
+  - Hung-Yu Hou
+  - Ya-Chen Tsai
+  - Wei Foo
+  - Yan-Ting Hsiao
+  - Jun-Chau Chien
+  publisher: 2025 IEEE Custom Integrated Circuits Conference (CICC)
+  date: '2025-04-13'
+  link: https://doi.org/g9s6b7
+  tags:
+  - type: conference
+  - Bio
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/IEDM50854.2024.10873317
@@ -350,6 +403,36 @@
   link: https://doi.org/g9sp4f
   tags:
   - type: conference
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/LMWT.2024.3388933
+  title: A 60-GHz Phase-Locked Loop Using Standing- Wave Oscillator for Clock Distribution
+    in 2-D Phased-Array
+  authors:
+  - Ying-Han You
+  - Sih-Ying Chen
+  - Pin-Yu Lin
+  - Jun-Chau Chien
+  publisher: IEEE Microwave and Wireless Technology Letters
+  date: '2024-06-01'
+  link: https://doi.org/g9s6b8
+  tags:
+  - type: conference
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/JMEMS.2023.3326973
+  title: Impedance Sensing in CMOS-Embedded Microfluidics Using BEOL Electrodes
+  authors:
+  - Wei-Yang Weng
+  - Jun-Chau Chien
+  publisher: Journal of Microelectromechanical Systems
+  date: '2024-02-01'
+  link: https://doi.org/g6kfwc
+  tags:
+  - type: conference
+  - RF
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CICC.2005.1568622
@@ -873,6 +956,46 @@
   link: https://doi.org/gsmsgd
   tags:
   - type: conference
+  plugin: sources.py
+  file: sources.yaml
+- id: google.patent:US12036008B2
+  title: Gigahertz frequency fringing near-field biomedical sensor
+  authors:
+  - Jun-Chau Chien
+  - Stanley Yuanshih Chen
+  publisher: ''
+  date: '2024-07-16'
+  link: https://patents.google.com/patent/US12036008B2/en
+  tags:
+  - type: patent
+  plugin: sources.py
+  file: sources.yaml
+- id: google.patent:US20240208806A1
+  title: Semiconductor chip with embedded microfluidic channels and method of fabricating
+    the same
+  authors:
+  - Jun-Chau Chien
+  - Wei-Yang WENG
+  publisher: ''
+  date: '2024-06-27'
+  link: https://patents.google.com/patent/US20240208806A1/en
+  tags:
+  - type: patent
+  plugin: sources.py
+  file: sources.yaml
+- id: google.patent:US20240316548A1
+  title: Semiconductor sensing chip and microfluidics sensing system
+  authors:
+  - Jun-Chau Chien
+  - Shu-Yan Chuang
+  - Yan-Ting Hsiao
+  - Hung-Yu Hou
+  - Yun-Chun Su
+  publisher: ''
+  date: '2024-09-26'
+  link: https://patents.google.com/patent/US20240316548A1/en
+  tags:
+  - type: patent
   plugin: sources.py
   file: sources.yaml
 - id: google.patent:US8841948B1
