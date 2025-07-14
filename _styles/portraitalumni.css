@@ -28,13 +28,13 @@
   font-family: var(--heading);
   font-style: italic;
   font-weight: var(--thin);
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .portraitalumni-alumrole {
   font-family: var(--heading);
   font-weight: var(--regular);
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .portraitalumni-role .icon {
