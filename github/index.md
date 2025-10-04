@@ -1,11 +1,11 @@
 ---
 title: Github
 nav:
-  order: 6
+  order: 4
   tooltip: Github Repositories
 ---
 
-# {% include icon.html icon="fa-solid fa-github" %}Github Repo
+# {% include icon.html icon="fa-solid fa-code-branch" %}Github Repo
 
 {% include section.html %}
 
