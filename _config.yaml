@@ -41,6 +41,9 @@ collections:
   # generate page for each post
   posts:
     output: true
+  # generate page for each github repo
+  githubs:
+    output: true 
 
 # jekyll plugins
 plugins:

@@ -6,6 +6,7 @@ group: RF
 grade: 3
 links:
   email: wylin@berkeley.edu
+  linkedin: wei-yu-lin-b31140268
 ---
 
 Wei-Yu Lin received his B.S. degree from National Taiwan University in electrical engineering and physics. His research interest focuses on quantum devices and RF integrated circuits. 
