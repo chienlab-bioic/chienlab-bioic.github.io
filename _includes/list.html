@@ -5,13 +5,12 @@
   | data_filter: include.filters
 %}
 
-{%- comment -%}
-  Flags (Liquid include params are usually strings)
+  <!-- Flags (Liquid include params are usually strings)
   - sort: default true. Pass sort="false" to preserve data order.
-  - alumni: true/false. Auto-enabled if component == "portraitalumni".
-{%- endcomment -%}
+  - alumni: true/false. Auto-enabled if component == "portraitalumni". -->
+
 {% assign sort_enabled = true %}
-{% if include.sort == false or include.sort == "false" or include.sort == 0 or include.sort == "0" %}
+{% if include.sort == false or include.sort == "false" %}
   {% assign sort_enabled = false %}
 {% endif %}
 
@@ -23,37 +22,29 @@
   {% assign is_alumni = true %}
 {% endif %}
 
-{%- comment -%}
-  Build `sorted_data` and `groups`
+  <!-- Build `sorted_data` and `groups`
   - Alumni: group by alum_year (and optionally split with_year/without_year)
-  - Default: group by date-year
-{%- endcomment -%}
+  - Default: group by date-year -->
 
 {% if is_alumni %}
 
-  {%- comment -%} Alumni-specific ordering: with alum_year first, then without alum_year {%- endcomment -%}
+  <!-- Alumni-specific ordering: with alum_year first, then without alum_year -->
   {% assign with_year = data | where_exp: "item", "item.alum_year" %}
   {% assign without_year = data | where_exp: "item", "item.alum_year == nil" %}
 
-  {% if sort_enabled %}
-    {% assign with_year = with_year | sort: "alum_year" | reverse %}
-    {% assign without_year = without_year | sort: "grade" | reverse %}
-  {% endif %}
+  {% assign with_year = with_year | sort: "alum_year" | reverse %}
+  {% assign without_year = without_year | sort: "grade" | reverse %}
 
   {% assign sorted_data = with_year | concat: without_year %}
 
-  {%- comment -%}
-    Group by alum_year; use 0 for missing year so they end up in a "No year" bucket.
-  {%- endcomment -%}
+  <!-- Group by alum_year; use 0 for missing year so they end up in a "No year" bucket. -->
   {% assign groups = sorted_data | group_by_exp: "d", "d.alum_year | default: 0" %}
 
-  {% if sort_enabled %}
-    {% assign groups = groups | sort: "name" | reverse %}
-  {% endif %}
+  {% assign groups = groups | sort: "name" | reverse %}
 
 {% else %}
 
-  {%- comment -%} Default mode (posts/pubs/github/etc.) {%- endcomment -%}
+  <!-- Default mode (posts/pubs/github/etc.)  -->
   {% assign sorted_data = data %}
 
   {% if sort_enabled %}
@@ -75,16 +66,16 @@
 
 {% endif %}
 
-{%- comment -%}
-  Render groups
+
+  <!-- Render groups
   - Show headers only if multiple groups
-  - If sort is disabled, do NOT reorder items inside group (keeps YAML order)
-{%- endcomment -%}
+  - If sort is disabled, do NOT reorder items inside group (keeps YAML order) -->
+
 {% for year in groups %}
   {% assign group_data = year.items %}
 
   {% if groups.size > 1 %}
-    {% if is_alumni %}
+    <!-- {% if is_alumni %}
       {% if year.name == "0" %}
         <h3 id="no-year">No year</h3>
       {% else %}
@@ -92,7 +83,7 @@
       {% endif %}
     {% else %}
       <h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% endif %}
+    {% endif %} -->
 
     {% if sort_enabled and is_alumni == false %}
       {%- comment -%} Optional per-year sort by date in normal mode {%- endcomment -%}

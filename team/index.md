@@ -23,13 +23,13 @@ nav:
 
 ## PhD Students
 
-{% include list.html data="members" component="portrait" filters="role: phd" %}
+{% include list.html data="members" component="portrait" filters="role: phd" sort_by="grade" %}
 
 {% include section.html %}
 
 ## Undergraduate Students
 
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" sort_by="grade" %}
 
 {% include section.html %}
 
