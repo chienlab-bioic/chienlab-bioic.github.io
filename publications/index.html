@@ -602,8 +602,31 @@
   size: ;
 -->
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2025"&gt;2025&lt;/h3&gt;
-</code></pre></div></div>
+<p>&lt;!– Flags (Liquid include params are usually strings)</p>
+<ul>
+  <li>sort: default true. Pass sort=”false” to preserve data order.</li>
+  <li>alumni: true/false. Auto-enabled if component == “portraitalumni”. –&gt;</li>
+</ul>
+
+<p>&lt;!– Build <code class="language-plaintext highlighter-rouge">sorted_data</code> and <code class="language-plaintext highlighter-rouge">groups</code></p>
+<ul>
+  <li>Alumni: group by alum_year (and optionally split with_year/without_year)</li>
+  <li>Default: group by date-year –&gt;</li>
+</ul>
+
+<p><!-- Default mode (posts/pubs/github/etc.)  --></p>
+
+<p>&lt;!– Render groups</p>
+<ul>
+  <li>Show headers only if multiple groups</li>
+  <li>
+    <p>If sort is disabled, do NOT reorder items inside group (keeps YAML order) –&gt;</p>
+
+    <!-- 
+  <h3 id="2025">2025</h3>
+ -->
+  </li>
+</ul>
 
 <div class="citation">
   <!--  -->
@@ -713,7 +736,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2024"&gt;2024&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2024"&gt;2024&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -878,7 +903,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2023"&gt;2023&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2023"&gt;2023&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1016,7 +1043,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2022"&gt;2022&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2022"&gt;2022&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1154,7 +1183,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2021"&gt;2021&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2021"&gt;2021&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1184,7 +1215,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2020"&gt;2020&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2020"&gt;2020&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1268,7 +1301,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2019"&gt;2019&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2019"&gt;2019&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1325,7 +1360,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2018"&gt;2018&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2018"&gt;2018&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1436,7 +1473,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2017"&gt;2017&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2017"&gt;2017&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1493,7 +1532,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2016"&gt;2016&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2016"&gt;2016&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1550,7 +1591,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2015"&gt;2015&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2015"&gt;2015&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1715,7 +1758,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2014"&gt;2014&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2014"&gt;2014&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1880,7 +1925,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2013"&gt;2013&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2013"&gt;2013&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1937,7 +1984,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2012"&gt;2012&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2012"&gt;2012&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -1994,7 +2043,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2011"&gt;2011&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2011"&gt;2011&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -2051,7 +2102,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2010"&gt;2010&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2010"&gt;2010&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -2108,7 +2161,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2007"&gt;2007&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2007"&gt;2007&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -2300,7 +2355,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2006"&gt;2006&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2006"&gt;2006&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -2330,7 +2387,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id="2005"&gt;2005&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id="2005"&gt;2005&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
@@ -2387,7 +2446,9 @@
   </div>
 </div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  &lt;h3 id=""&gt;&lt;/h3&gt;
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;!-- 
+  &lt;h3 id=""&gt;&lt;/h3&gt;
+ --&gt;
 </code></pre></div></div>
 
 <div class="citation">
