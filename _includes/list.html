@@ -4,30 +4,103 @@
   | default: emptyarray
   | data_filter: include.filters
 %}
-<!-- sort data -->
-{% assign with_year = data | where_exp: "item", "item.alum_year" %}
-{% assign without_year = data | where_exp: "item", "item.alum_year == nil" %}
 
-{% assign with_year = with_year | sort: "alum_year" | reverse %}
-{% assign without_year = without_year | sort: "grade" | reverse %}
+{%- comment -%}
+  Flags (Liquid include params are usually strings)
+  - sort: default true. Pass sort="false" to preserve data order.
+  - alumni: true/false. Auto-enabled if component == "portraitalumni".
+{%- endcomment -%}
+{% assign sort_enabled = true %}
+{% if include.sort == false or include.sort == "false" or include.sort == 0 or include.sort == "0" %}
+  {% assign sort_enabled = false %}
+{% endif %}
 
-{% assign sorted_data = with_year | concat: without_year %}
+{% assign is_alumni = false %}
+{% if include.alumni == true or include.alumni == "true" %}
+  {% assign is_alumni = true %}
+{% endif %}
+{% if include.component == "portraitalumni" %}
+  {% assign is_alumni = true %}
+{% endif %}
 
-{% assign years = sorted_data
-  | group_by_exp: "d", "d.date | date: '%Y'"
-  | sort: "name"
-  | reverse
-%}
+{%- comment -%}
+  Build `sorted_data` and `groups`
+  - Alumni: group by alum_year (and optionally split with_year/without_year)
+  - Default: group by date-year
+{%- endcomment -%}
 
-{% for year in years %}
-  {% assign data = year.items %}
+{% if is_alumni %}
 
-  {% if years.size > 1 %}
-    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
+  {%- comment -%} Alumni-specific ordering: with alum_year first, then without alum_year {%- endcomment -%}
+  {% assign with_year = data | where_exp: "item", "item.alum_year" %}
+  {% assign without_year = data | where_exp: "item", "item.alum_year == nil" %}
+
+  {% if sort_enabled %}
+    {% assign with_year = with_year | sort: "alum_year" | reverse %}
+    {% assign without_year = without_year | sort: "grade" | reverse %}
   {% endif %}
 
-  {% for d in data %}
+  {% assign sorted_data = with_year | concat: without_year %}
+
+  {%- comment -%}
+    Group by alum_year; use 0 for missing year so they end up in a "No year" bucket.
+  {%- endcomment -%}
+  {% assign groups = sorted_data | group_by_exp: "d", "d.alum_year | default: 0" %}
+
+  {% if sort_enabled %}
+    {% assign groups = groups | sort: "name" | reverse %}
+  {% endif %}
+
+{% else %}
+
+  {%- comment -%} Default mode (posts/pubs/github/etc.) {%- endcomment -%}
+  {% assign sorted_data = data %}
+
+  {% if sort_enabled %}
+    {% assign sort_key = include.sort_by | default: "date" %}
+    {% assign sorted_data = sorted_data | sort: sort_key %}
+    {% assign sort_order = include.sort_order | default: "desc" %}
+    {% if sort_order == "desc" %}
+      {% assign sorted_data = sorted_data | reverse %}
+    {% endif %}
+  {% endif %}
+
+  {% assign groups = sorted_data
+    | group_by_exp: "d", "d.date | date: '%Y'"
+  %}
+
+  {% if sort_enabled %}
+    {% assign groups = groups | sort: "name" | reverse %}
+  {% endif %}
+
+{% endif %}
+
+{%- comment -%}
+  Render groups
+  - Show headers only if multiple groups
+  - If sort is disabled, do NOT reorder items inside group (keeps YAML order)
+{%- endcomment -%}
+{% for year in groups %}
+  {% assign group_data = year.items %}
+
+  {% if groups.size > 1 %}
+    {% if is_alumni %}
+      {% if year.name == "0" %}
+        <h3 id="no-year">No year</h3>
+      {% else %}
+        <h3 id="{{ year.name }}">{{ year.name }}</h3>
+      {% endif %}
+    {% else %}
+      <h3 id="{{ year.name }}">{{ year.name }}</h3>
+    {% endif %}
+
+    {% if sort_enabled and is_alumni == false %}
+      {%- comment -%} Optional per-year sort by date in normal mode {%- endcomment -%}
+      {% assign group_data = group_data | sort: "date" | reverse %}
+    {% endif %}
+  {% endif %}
+
+  {% for d in group_data %}
     {% assign style = d.style | default: include.style %}
 
     {%
@@ -61,8 +134,8 @@
       type=d.type
       url=d.url
       width=d.width
-      alum_year = d.alum_year
-      alum_role = d.alum_role
+      alum_year=d.alum_year
+      alum_role=d.alum_role
     %}
   {% endfor %}
 {% endfor %}

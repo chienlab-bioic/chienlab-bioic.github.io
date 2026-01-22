@@ -9,4 +9,4 @@ nav:
 
 {% include section.html %}
 
-{% include list.html component="card" data="githubs" style="small" %}
+{% include list.html component="card" data="githubs" style="small" sort=false %}
