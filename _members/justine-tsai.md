@@ -8,7 +8,7 @@ aliases:
   - Y. C. Tsai
   - Ya-Chen Tsai
 links:
-  email: justine_tsai@berekley.edu
+  email: justine_tsai@berkeley.edu
   linkedin: justinetsai2503
 ---
 
