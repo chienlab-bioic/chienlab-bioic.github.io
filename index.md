@@ -58,8 +58,8 @@ Our group's research focuses on integrated circuits and their convergence with b
     {%
       include figure.html
       width = "100%"
-      image = "images/temp.jpg"
-      caption = "2024 Fall BSAC IAB Poster Session!"
+      image = "images/bsac_sp26.png"
+      caption = "2026 Spring BSAC IAB Poster Session!"
     %}
   </div>
 
