@@ -1,7 +1,7 @@
 ---
 name: Shruthi Ravichandran
 image: images/members/shruthi-ravichandran.JPG
-role: phd
+role: alumni
 group: Bio
 grade: 1
 ---

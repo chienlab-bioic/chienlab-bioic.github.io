@@ -1,7 +1,7 @@
 ---
 name: Yueting (Lily) Li
 image: images/members/lily-li.jpg
-role: phd
+role: alumni
 group: Bio
 grade: 3
 links:

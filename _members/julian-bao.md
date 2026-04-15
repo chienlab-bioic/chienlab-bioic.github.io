@@ -1,7 +1,7 @@
 ---
 name: Julian Bao
 image: images/members/julian-bao.jpg
-role: undergrad
+role: alumni
 group: Bio
 grade: 3
 ---
