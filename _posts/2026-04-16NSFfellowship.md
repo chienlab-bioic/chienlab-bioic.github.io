@@ -1,6 +1,6 @@
 ---
 title: NSF GRFP
-author: 
+author: Nikhil Jain, Alexander Di, and Kelly Chang
 tags:
   - Fellowship
 ---
