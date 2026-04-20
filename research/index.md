@@ -29,6 +29,8 @@ Real-time "continuous" monitoring of specific biomarkers provides longitudinal d
 
 {% include figure.html image="images/research/wearable.png" caption="LED-less heart-rate sensing through fingers" width="80%" length="80%" %}
 
+{% include figure.html image="images/research/2026_arpah.png" caption="Aptamer-CMOS ASICs for continuous monitoring in vivo" width="80%" length="80%" %}
+
 ### High-speed, Millimeter-wave, and Cryogenic CMOS
 
 We develop circuits and systems that transcend the typical design trade-offs encountered with standard circuit topologies. to achieve high-speed and low-noise performance yet at high energy and area efficiency. We aim to achieve high-speed, low-noise performance while maintaining high energy and area efficiency.
