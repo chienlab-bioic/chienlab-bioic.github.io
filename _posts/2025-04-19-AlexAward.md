@@ -1,6 +1,7 @@
 ---
 title:  EECS Department Arthur M. Hopkin Award
 author:  Alexander Di
-tags: Award
+tags:
+  - Award
 ---
-Alex received the Berkeley EECS Department Arthur M. Hopkin Award for oustanding undergraduate researchers! Congratulations! 
+Alex received the Berkeley EECS Department Arthur M. Hopkin Award for outstanding undergraduate researchers! Congratulations!

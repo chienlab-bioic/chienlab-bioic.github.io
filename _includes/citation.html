@@ -61,6 +61,26 @@
       {{ citation.id | default: "[no id info]" }}
     </div>
 
+    {% capture publication_tags %}
+      {% for tag in citation.tags %}
+        {% if tag.type %}
+          ,{{ tag.type }}
+        {% elsif tag == "journal" or tag == "conference" or tag == "patent" %}
+          ,{{ tag }}
+        {% endif %}
+      {% endfor %}
+      {% for category in site.data.publication_categories %}
+        {% if category.ids contains citation.id %}
+          ,{{ category.tag }}
+        {% endif %}
+      {% endfor %}
+    {% endcapture %}
+
+    {% assign publication_tags = publication_tags | split: "," | array_filter | uniq %}
+    {% if publication_tags.size > 0 %}
+      {% include tags.html tags=publication_tags %}
+    {% endif %}
+
     {% if include.style == "rich" %}
       {% if citation.description %}
         <div class="citation-description">
@@ -88,8 +108,8 @@
         </div>
       {% endif %}
 
-      {% if citation.tags.size > 0 or citation.repo %}
-        {% include tags.html tags=citation.tags repo=citation.repo %}
+      {% if citation.repo %}
+        {% include tags.html repo=citation.repo %}
       {% endif %}
     {% endif %}
   </div>

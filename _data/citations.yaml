@@ -322,6 +322,159 @@
   - type: journal
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1109/JSSC.2025.3603941
+  title: A One-Step-Packaged CMOS/Microfluidics Wireless Bio-Analyzer for Point-of-Care
+    Diagnostics
+  authors:
+  - Yan-Ting Hsiao
+  - Ya-Chen Tsai
+  - Wei Foo
+  - Hung-Yu Hou
+  - Yun-Chun Su
+  - Shu-Yan Chuang
+  - Jun-Chau Chien
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2025-11-01'
+  link: https://doi.org/10.1109/JSSC.2025.3603941
+  tags:
+  - type: journal
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41551-025-01389-6
+  title: A biochemical sensor with continuous extended stability in vivo
+  authors:
+  - Yihang Chen
+  - Kaiyu X. Fu
+  - Renee Cotton
+  - Zihao Ou
+  - Jean Won Kwak
+  - Jun-Chau Chien
+  - Vladimir Kesler
+  - Hnin Yin Yin Nyein
+  - Michael Eisenstein
+  - H. Tom Soh
+  publisher: Nature Biomedical Engineering
+  date: '2025-05-23'
+  link: https://doi.org/10.1038/s41551-025-01389-6
+  tags:
+  - type: journal
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acssensors.5c02906
+  title: 'Extension-Enhanced Wavelet Decomposition: a Noise and Background Resilient
+    Square-Wave Voltammogram Signal-Processing Technique for Electrochemical Aptamer-Based
+    Biosensing In Vivo'
+  authors:
+  - Ya-Chen Tsai
+  - Hyongsok Tom Soh
+  - Jun-Chau Chien
+  publisher: ACS Sensors
+  date: '2026-02-27'
+  link: https://doi.org/10.1021/acssensors.5c02906
+  tags:
+  - type: journal
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TBCAS.2025.3626662
+  title: A Verilog-A-Based Redox-Signal Transduction Model for Co-Simulating Surface-Bound
+    Electrochemical Biosensors and Circuits
+  authors:
+  - Wei Foo
+  - Jun-Chau Chien
+  publisher: IEEE Transactions on Biomedical Circuits and Systems
+  date: '2026-04-01'
+  link: https://doi.org/10.1109/TBCAS.2025.3626662
+  tags:
+  - type: journal
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TED.2026.3681261
+  title: Cryogenic-Refined MOSFET Modeling for Oscillator, Frequency Divider, and
+    Amplifier Designs Below 4 K
+  authors:
+  - Nikhil Jain
+  - Wei-Yu Lin
+  - Yu-Hsuan Huang
+  - Min-Jui Lin
+  - Bozhi Yin
+  - Vladimir Stojanović
+  - Jiun-Yun Li
+  - Jun-Chau Chien
+  publisher: IEEE Transactions on Electron Devices
+  date: '2026-06-01'
+  link: https://doi.org/10.1109/TED.2026.3681261
+  tags:
+  - type: journal
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/JSSC.2025.3644751
+  title: Design and Implementation of a 200-GHz 200-Pixel 2-D Near-Field Imager
+  authors:
+  - Ali Ameri
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: IEEE Journal of Solid-State Circuits
+  date: '2026-07-01'
+  link: https://doi.org/10.1109/JSSC.2025.3644751
+  tags:
+  - type: journal
+  - Bio
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1021/acssensors.6c01078
+  title: Real-Time Monitoring of Trastuzumab Monoclonal Antibodies Using Electrochemical
+    Aptamer-Based Sensors
+  authors:
+  - Wei Foo
+  - Xieshi Zhang
+  - S. Maya Vanichakorntanes
+  - Ya-Chen Tsai
+  - Jun-Chau Chien
+  publisher: ACS Sensors
+  date: '2026-07-24'
+  link: https://doi.org/10.1021/acssensors.6c01078
+  tags:
+  - type: journal
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TCSI.2026.3685973
+  title: Theoretical Studies of Sub-THz Active Split-Ring Resonators for Near-Field
+    Imaging
+  authors:
+  - Ali Ameri
+  - Jun-Chau Chien
+  - Ali M. Niknejad
+  publisher: 'IEEE Transactions on Circuits and Systems I: Regular Papers'
+  date: '2026-08-01'
+  link: https://doi.org/10.1109/TCSI.2026.3685973
+  tags:
+  - type: journal
+  - Bio
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/LSSC.2026.3693153
+  title: A 60-GHz Class-F2,3 Standing-Wave Oscillator Employing Triple-Line Resonator
+    Achieving -189-dBc/Hz FoM in 65-nm CMOS
+  authors:
+  - Wei-Yu Lin
+  - Nikhil Jain
+  - Jun-Chau Chien
+  publisher: IEEE Solid-State Circuits Letters
+  date: '2026-01-01'
+  link: https://doi.org/10.1109/LSSC.2026.3693153
+  tags:
+  - type: journal
+  - RF
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/LSSC.2025.3578942
   title: A Millimeter-Wave Standing-Wave Oscillator With Frequency-Specific Wave-Velocity
     Control Demonstrating Class-F Effects
@@ -332,8 +485,92 @@
   date: '2025-01-01'
   link: https://doi.org/g9s3tg
   tags:
+  - type: journal
+  - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/RFIC61188.2025.11082789
+  title: A 60-GHz Area-efficient Coupled Standing-Wave-Oscillators LO Distribution
+    Network for a 240-GHz 2-D Phased-Array
+  authors:
+  - Ying-Han You
+  - Pin-Yu Lin
+  - Sih-Ying Chen
+  - Wei-Yu Lin
+  - Jun-Chau Chien
+  publisher: 2025 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)
+  date: '2025-06-15'
+  link: https://doi.org/10.1109/RFIC61188.2025.11082789
+  tags:
   - type: conference
   - RF
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MEMS64181.2026.11419275
+  title: Subtractive Nanofluidics in 65-nm CMOS Copper BEOL Achieve 100-nm Width
+  authors:
+  - Alexander Di
+  - Michael Pedowitz
+  - Jun-Chau Chien
+  publisher: 2026 IEEE 39th International Conference on Micro Electro Mechanical
+    Systems (MEMS)
+  date: '2026-01-25'
+  link: https://doi.org/10.1109/MEMS64181.2026.11419275
+  tags:
+  - type: conference
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MEMS64181.2026.11419596
+  title: CMOS-Embedded Microfluidics for Channel-Addressable Parallel Readout of SPAD
+    Fluorescence Lifetime Sensors
+  authors:
+  - Max S. Ladabaum
+  - Alexander Di
+  - Julian M. Bao
+  - Grigory Tikhomirov
+  - Jun-Chau Chien
+  publisher: 2026 IEEE 39th International Conference on Micro Electro Mechanical
+    Systems (MEMS)
+  date: '2026-01-25'
+  link: https://doi.org/10.1109/MEMS64181.2026.11419596
+  tags:
+  - type: conference
+  - Bio
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/CLEO_AT.2026.AM1B.4
+  title: Experimental studies of a WDM Cryogenic Electronic-Photonic Receiver in GF45SPCLO
+    Technology for Scalable Quantum Interface
+  authors:
+  - Wei-Yu Lin
+  - Yunping Wang
+  - Andris Huang
+  - Jun-Chau Chien
+  publisher: CLEO 2026
+  date: '2026-01-01'
+  link: https://doi.org/10.1364/CLEO_AT.2026.AM1B.4
+  tags:
+  - type: conference
+  - Photonics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1364/CLEO_AT.2026.ATU1B.4
+  title: Sensitivity Enhancement in Microring-Based Ultrasound Detection using Partially-Etched
+    Silicon Waveguide
+  authors:
+  - Hyeong-Seok Oh
+  - Sarika Madhvapathy
+  - Dorde Gluhovic
+  - Vladimir M. Stojanovic
+  - Ali M. Niknejad
+  - Jun-Chau Chien
+  publisher: CLEO 2026
+  date: '2026-01-01'
+  link: https://doi.org/10.1364/CLEO_AT.2026.ATU1B.4
+  tags:
+  - type: conference
+  - Photonics
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/LMWT.2025.3569450

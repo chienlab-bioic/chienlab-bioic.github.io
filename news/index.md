@@ -11,7 +11,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags=site.tags %}
+{% include tags.html tags="Publication, Award, Grant, People, Talk, Service, Recruiting, Tapeout" %}
 
 {% include search-info.html %}
 

@@ -1,6 +1,6 @@
 ---
 title: IEEE MWTL paper acceptance!
-author: Yi-Ting Chen, Guan-Yu Haung, Prof. Jiun-Yun Li (NTU), and Ming-Jui Lin (NTU)
+author: Yi-Ting Chen, Guan-Yu Huang, Prof. Jiun-Yun Li (NTU), and Ming-Jui Lin (NTU)
 tags:  
   - Publication
 ---

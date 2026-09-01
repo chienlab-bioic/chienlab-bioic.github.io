@@ -11,7 +11,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="journal, conference, patent" %}
+{% include tags.html tags="journal, conference, patent, Bioelectronics, Mixed-signal/mmWave, Silicon Photonics" %}
 
 {% include search-info.html %}
 
@@ -20,4 +20,3 @@ nav:
 {% include list.html data="citations" component="citation" style="small"%}
 
 {% include section.html %}
-

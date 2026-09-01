@@ -5,4 +5,4 @@ tags:
   - Publication
 ---
 
-Our paper on CMOS/microfluidics has been accepted to ISSCC 2025! Congrats to the team! Another paper led by collaborator Ali Ameri and Prof. Ali Niknejad is also aceepted, congratulation!
+Our paper on CMOS/microfluidics has been accepted to ISSCC 2025! Congrats to the team! Another paper led by collaborator Ali Ameri and Prof. Ali Niknejad was also accepted, congratulations!

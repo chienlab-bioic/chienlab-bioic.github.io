@@ -1,8 +1,8 @@
 ---
-title: Congratulation on passing NTU oral defense!
+title: Congratulations on passing NTU oral defense!
 author: Jun-Chau Chien
 tags:
-  - Member
+  - People
 ---
-Congratulation to Hung-Yu, Yan-Ting, Ying-Han, and Guan-Yu on passing the NTU oral defense! Good job!
+Congratulations to Hung-Yu, Yan-Ting, Ying-Han, and Guan-Yu on passing the NTU oral defense! Good job!
  

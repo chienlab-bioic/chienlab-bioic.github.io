@@ -4,8 +4,6 @@ image: images/members/venkata.jpeg
 role: alumni
 group: Bio
 grade: 4
-links:
-  email: sarah.johnson@gmail.com
 alum_year: 2025
 alum_role: MS
 ---

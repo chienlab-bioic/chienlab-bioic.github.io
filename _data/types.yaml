@@ -27,7 +27,7 @@ researcher:
   description: Researcher
 
 alumni:
-  icon: fa-solid fa-dog
+  icon: fa-solid fa-user-clock
   description: Alumni
 
 # general

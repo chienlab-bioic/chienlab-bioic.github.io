@@ -1,8 +1,8 @@
 ---
 title: Apple Fellowship!
-author: Srika Madhvapathy
+author: Sarika Madhvapathy
 tags:
-  - Fellowship
+  - Award
 ---
 
 Big congrats to Sarika on receiving the Apple Fellowship! Keep up the exciting work!
