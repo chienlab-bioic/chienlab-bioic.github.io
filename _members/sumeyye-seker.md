@@ -1,6 +1,6 @@
 ---
 name: Sumeyye Seker
-image: images/members/temp.jpeg
+image: images/members/sumeyye-seker.jpg
 role: postdoc
 group: Bio
 grade: 1

@@ -1,6 +1,6 @@
 ---
 name: Cheng-Jui (Ricky) Cheng
-image: images/members/temp.jpeg
+image: images/members/ricky-cheng.jpg
 role: phd
 group: RF
 grade: 1
