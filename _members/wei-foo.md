@@ -3,7 +3,7 @@ name: Wei Foo
 image: images/members/wei-foo.png
 role: phd
 group: Bio
-grade: 3
+grade: 4
 links:
   email: weisfoo@berkeley.edu
   linkedin: wei-foo

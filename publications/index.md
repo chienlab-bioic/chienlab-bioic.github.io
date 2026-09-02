@@ -11,7 +11,7 @@ nav:
 
 {% include search-box.html %}
 
-{% include tags.html tags="Bioelectronics, Mixed-signal/mmWave, Silicon Photonics" %}
+{% include publication-filters.html %}
 
 {% include search-info.html %}
 

@@ -3,7 +3,7 @@ name: Wei-Yu Lin
 image: images/members/wei-yu-lin.jpg
 role: phd
 group: RF
-grade: 3
+grade: 4
 links:
   email: wylin@berkeley.edu
   linkedin: wei-yu-lin-b31140268
