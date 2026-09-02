@@ -334,9 +334,9 @@
   tags:
   - type: journal
   - RF
+  display_date: Jun 2025
   plugin: sources.py
   file: sources.yaml
-  display_date: Jun 2025
 - id: doi:10.1109/JSSC.2025.3603941
   title: A One-Step-Packaged CMOS/Microfluidics Wireless Bio-Analyzer for Point-of-Care
     Diagnostics
@@ -354,9 +354,9 @@
   tags:
   - type: journal
   - Bio
+  display_date: Nov 2025
   plugin: sources.py
   file: sources.yaml
-  display_date: Nov 2025
 - id: doi:10.1021/acssensors.5c02906
   title: "Extension-Enhanced Wavelet Decomposition: a Noise and Background Resilient\
     \ Square-Wave Voltammogram Signal-Processing Technique for Electrochemical Aptamer-Based\
@@ -371,9 +371,9 @@
   tags:
   - type: journal
   - Bio
+  display_date: Feb 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Feb 2026
 - id: doi:10.1109/TBCAS.2025.3626662
   title: A Verilog-A-Based Redox-Signal Transduction Model for Co-Simulating Surface-Bound
     Electrochemical Biosensors and Circuits
@@ -386,9 +386,9 @@
   tags:
   - type: journal
   - Bio
+  display_date: Apr 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Apr 2026
 - id: doi:10.1109/JSSC.2025.3644751
   title: Design and Implementation of a 200-GHz 200-Pixel 2-D Near-Field Imager
   authors:
@@ -402,9 +402,9 @@
   - type: journal
   - Bio
   - RF
+  display_date: Jul 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Jul 2026
 - id: doi:10.1109/TCSI.2026.3685973
   title: Theoretical Studies of Sub-THz Active Split-Ring Resonators for Near-Field
     Imaging
@@ -419,9 +419,9 @@
   - type: journal
   - Bio
   - RF
+  display_date: Aug 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Aug 2026
 - id: doi:10.1109/TED.2026.3681261
   title: Cryogenic-Refined MOSFET Modeling for Oscillator, Frequency Divider, and
     Amplifier Designs Below 4 K
@@ -440,9 +440,9 @@
   tags:
   - type: journal
   - RF
+  display_date: Jun 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Jun 2026
 - id: doi:10.1109/LSSC.2026.3693153
   title: "A 60-GHz Class- F\n                    <sub>2,3</sub>\n                \
     \    Standing-Wave Oscillator Employing Triple-Line Resonator Achieving \u2212\
@@ -457,9 +457,9 @@
   tags:
   - type: journal
   - RF
+  display_date: '2026'
   plugin: sources.py
   file: sources.yaml
-  display_date: '2026'
 - id: doi:10.1038/s41551-025-01389-6
   title: A biochemical sensor with continuous extended stability in vivo
   authors:
@@ -496,9 +496,9 @@
   tags:
   - type: journal
   - Bio
+  display_date: Jul 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Jul 2026
 - id: doi:10.1109/RFIC61188.2025.11082789
   title: A 60-GHz Area-efficient Coupled Standing-Wave-Oscillators LO Distribution
     Network for a 240-GHz 2-D Phased-Array
@@ -514,9 +514,9 @@
   tags:
   - type: conference
   - RF
+  display_date: Jun 2025
   plugin: sources.py
   file: sources.yaml
-  display_date: Jun 2025
 - id: doi:10.1109/MEMS64181.2026.11419275
   title: Subtractive Nanofluidics in 65-nm CMOS Copper BEOL Achieve 100-nm Width
   authors:
@@ -530,9 +530,9 @@
   tags:
   - type: conference
   - Bio
+  display_date: Jan 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Jan 2026
 - id: doi:10.1109/MEMS64181.2026.11419596
   title: CMOS-Embedded Microfluidics for Channel-Addressable Parallel Readout of Spad
     Fluorescence Lifetime Sensors
@@ -549,9 +549,9 @@
   tags:
   - type: conference
   - Bio
+  display_date: Jan 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: Jan 2026
 - id: doi:10.1364/CLEO_AT.2026.AM1B.4
   title: Experimental studies of a WDM Cryogenic Electronic-Photonic Receiver in GF45SPCLO
     Technology for Scalable Quantum Interface
@@ -566,9 +566,9 @@
   tags:
   - type: conference
   - Photonics
+  display_date: May 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: May 2026
 - id: doi:10.1364/CLEO_AT.2026.ATU1B.4
   title: Sensitivity Enhancement in Microring-Based Ultrasound Detection using Partially-Etched
     Silicon Waveguide
@@ -585,9 +585,9 @@
   tags:
   - type: conference
   - Photonics
+  display_date: May 2026
   plugin: sources.py
   file: sources.yaml
-  display_date: May 2026
 - id: doi:10.1109/LMWT.2025.3569450
   title: Experimental Studies of Millimeter-Wave CMOS LO Circuits for High-Temperature
     Qubits Operations
@@ -603,9 +603,9 @@
   tags:
   - type: conference
   - RF
+  display_date: Sep 2025
   plugin: sources.py
   file: sources.yaml
-  display_date: Sep 2025
 - id: doi:10.1109/ISSCC49661.2025.10904714
   title: 20.3 An RFID-Inspired One-Step Packaged Multimode Bio-Analyzer with Vacuum
     Microfluidics for Point-of-Care Diagnostics
@@ -623,9 +623,9 @@
   tags:
   - type: conference
   - Bio
+  display_date: Feb 2025
   plugin: sources.py
   file: sources.yaml
-  display_date: Feb 2025
 - id: doi:10.1109/CICC63670.2025.10983591
   title: A 0.7pA<sub>rms</sub> Electrochemical Readout IC for Continuous Monitoring
     of Antibody Biologics in Upstream Biomanufacturing
@@ -641,9 +641,9 @@
   tags:
   - type: conference
   - Bio
+  display_date: Apr 2025
   plugin: sources.py
   file: sources.yaml
-  display_date: Apr 2025
 - id: doi:10.1109/IEDM50854.2024.10873317
   title: Subtractive Microfluidics in CMOS
   authors:
@@ -659,9 +659,9 @@
   tags:
   - type: conference
   - Bio
+  display_date: Dec 2024
   plugin: sources.py
   file: sources.yaml
-  display_date: Dec 2024
 - id: doi:10.1109/LMWT.2024.3388933
   title: A 60-GHz Phase-Locked Loop Using Standing- Wave Oscillator for Clock Distribution
     in 2-D Phased-Array
@@ -676,9 +676,9 @@
   tags:
   - type: conference
   - RF
+  display_date: Jun 2024
   plugin: sources.py
   file: sources.yaml
-  display_date: Jun 2024
 - id: doi:10.1109/JMEMS.2023.3326973
   title: Impedance Sensing in CMOS-Embedded Microfluidics Using BEOL Electrodes
   authors:
@@ -690,9 +690,9 @@
   tags:
   - type: conference
   - RF
+  display_date: Feb 2024
   plugin: sources.py
   file: sources.yaml
-  display_date: Feb 2024
 - id: doi:10.1109/CICC.2005.1568622
   title: 45.6-GHz matrix distributed amplifier in 0.18-&amp;#x03BC;m CMOS
   authors:
