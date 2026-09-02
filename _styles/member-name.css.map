@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["member-name.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACE;EACA;EACA","sourcesContent":[".member-name-wrapper {\n  display: inline-flex;\n  margin: 6px 18px 6px 0;\n}\n\n.member-name {\n  font-family: var(--heading);\n  font-weight: var(--semi-bold);\n  text-decoration: none;\n}\n"],"file":"member-name.css"}
