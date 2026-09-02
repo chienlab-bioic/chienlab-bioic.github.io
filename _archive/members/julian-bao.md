@@ -3,7 +3,8 @@ name: Julian Bao
 image: images/members/julian-bao.jpg
 role: alumni
 group: Bio
-grade: 3
+alum_year: 2025
+alum_role: BS
 ---
 
 N/A

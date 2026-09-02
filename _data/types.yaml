@@ -18,6 +18,10 @@ ms:
   icon: fa-solid fa-graduation-cap
   description: MS Student
 
+visiting:
+  icon: fa-solid fa-user-group
+  description: Visiting Scholar
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student

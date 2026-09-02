@@ -56,7 +56,18 @@
     <div class="citation-details">
       {{ citation.publisher | default: "[no publisher info]" }}
       &nbsp; · &nbsp;
-      {{ citation.date | default: "[no date info]" | date: "%d %b %Y" }}
+      {% if citation.display_date %}
+        {{ citation.display_date }}
+      {% elsif citation.date %}
+        {% assign citation_day = citation.date | date: "%d" %}
+        {% if citation_day == "01" %}
+          {{ citation.date | date: "%b %Y" }}
+        {% else %}
+          {{ citation.date | date: "%d %b %Y" }}
+        {% endif %}
+      {% else %}
+        [no date info]
+      {% endif %}
       &nbsp; · &nbsp;
       {{ citation.id | default: "[no id info]" }}
     </div>

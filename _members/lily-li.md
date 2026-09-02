@@ -3,7 +3,8 @@ name: Yueting (Lily) Li
 image: images/members/lily-li.jpg
 role: alumni
 group: Bio
-grade: 3
+alum_year: 2025
+alum_role: MS
 links:
   email: yueting_li@berkeley.edu
   linkedin: yuetingli

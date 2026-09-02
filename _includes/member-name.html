@@ -1,0 +1,17 @@
+{% assign member = site.members
+  | where_exp: "member", "member.slug == include.lookup"
+  | first
+  | default: include
+%}
+
+<div class="member-name-wrapper">
+  {% if member.url %}
+    <a class="member-name" href="{{ member.url | relative_url }}">
+      {{ member.name | default: "Member" }}
+    </a>
+  {% else %}
+    <span class="member-name">
+      {{ member.name | default: "Member" }}
+    </span>
+  {% endif %}
+</div>

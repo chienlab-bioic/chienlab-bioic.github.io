@@ -27,9 +27,15 @@ nav:
 
 {% include section.html %}
 
+## MS Students / Visiting Scholars
+
+{% include list.html data="members" component="portrait" filters="role: ms|visiting" sort_by="grade" %}
+
+{% include section.html %}
+
 ## Undergraduate Students
 
-{% include list.html data="members" component="portrait" filters="role: undergrad" sort_by="grade" %}
+{% include list.html data="members" component="member-name" filters="role: undergrad" sort_by="grade" %}
 
 {% include section.html %}
 

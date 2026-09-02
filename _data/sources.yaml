@@ -84,46 +84,56 @@
   - type: journal
 
 - id: doi:10.1109/LSSC.2025.3578942 # 2025 classF VCO letter
+  date: '2025-06-11'
   tags:
   - type: journal
   - RF
+  display_date: Jun 2025
 
 - id: doi:10.1109/JSSC.2025.3603941 # 2025 JSSC bio-analyzer
   tags:
   - type: journal
   - Bio
+  display_date: Nov 2025
 
 - id: doi:10.1021/acssensors.5c02906 # 2026 ACS Sensors EWD
+  date: '2026-02-27'
   tags:
   - type: journal
   - Bio
+  display_date: Feb 2026
 
 - id: doi:10.1109/TBCAS.2025.3626662 # 2026 T-BioCAS redox model
   tags:
   - type: journal
   - Bio
+  display_date: Apr 2026
 
 - id: doi:10.1109/JSSC.2025.3644751 # 2026 JSSC 200-GHz imager
   tags:
   - type: journal
   - Bio
   - RF
+  display_date: Jul 2026
 
 - id: doi:10.1109/TCSI.2026.3685973 # 2026 TCAS-I active split-ring resonators
   tags:
   - type: journal
   - Bio
   - RF
+  display_date: Aug 2026
 
 - id: doi:10.1109/TED.2026.3681261 # 2026 TED cryogenic MOSFET modeling
   tags:
   - type: journal
   - RF
+  display_date: Jun 2026
 
 - id: doi:10.1109/LSSC.2026.3693153 # 2026 Class-F2,3 VCO letter
   tags:
   - type: journal
   - RF
+  display_date: '2026'
 
 - id: doi:10.1038/s41551-025-01389-6 # 2025 Nature Biomedical Engineering
   tags:
@@ -131,65 +141,80 @@
   - Bio
 
 - id: doi:10.1021/acssensors.6c01078 # 2026 ACS Sensors trastuzumab
+  date: '2026-07-24'
   tags:
   - type: journal
   - Bio
+  display_date: Jul 2026
   
 # CONFERENCE
 - id: doi:10.1109/RFIC61188.2025.11082789 # 2025 RFIC 60-GHz LO distribution
   tags:
   - type: conference
   - RF
+  display_date: Jun 2025
 
 - id: doi:10.1109/MEMS64181.2026.11419275 # 2026 MEMS nanofluidics
   tags:
   - type: conference
   - Bio
+  display_date: Jan 2026
 
 - id: doi:10.1109/MEMS64181.2026.11419596 # 2026 MEMS SPAD fluorescence lifetime sensors
   tags:
   - type: conference
   - Bio
+  display_date: Jan 2026
 
 - id: doi:10.1364/CLEO_AT.2026.AM1B.4 # 2026 CLEO cryogenic electronic-photonic receiver
+  date: '2026-05-17'
   tags:
   - type: conference
   - Photonics
+  display_date: May 2026
 
 - id: doi:10.1364/CLEO_AT.2026.ATU1B.4 # 2026 CLEO microring ultrasound detection
+  date: '2026-05-17'
   tags:
   - type: conference
   - Photonics
+  display_date: May 2026
 
 - id: doi:10.1109/LMWT.2025.3569450 # 2025 RFIC
   tags:
   - type: conference
   - RF
+  display_date: Sep 2025
 
 - id: doi:10.1109/ISSCC49661.2025.10904714 # 2025 ISSCC DUST
   tags:
     - type: conference
     - Bio
+  display_date: Feb 2025
 
 - id: doi:10.1109/CICC63670.2025.10983591 # 2025 CICC 8 channel
   tags:
     - type: conference
     - Bio
+  display_date: Apr 2025
       
 - id: doi:10.1109/IEDM50854.2024.10873317 # 2024 IEDM sub uF
   tags:
     - type: conference
     - Bio
+  display_date: Dec 2024
 
 - id: doi:10.1109/LMWT.2024.3388933 # 60GHz PLL
   tags:
   - type: conference
   - RF
+  display_date: Jun 2024
 
 - id: doi:10.1109/JMEMS.2023.3326973 # Impedance sensing Wei-Yang
   tags:
   - type: conference
   - RF
+  display_date: Feb 2024
 
 - id: doi:10.1109/CICC.2005.1568622
   tags:

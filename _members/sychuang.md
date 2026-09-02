@@ -1,7 +1,7 @@
 ---
 name: Shu-Yan Chuang
 image: images/members/sychuang.jpg
-role: alumni
+role: visiting
 group: Bio
 alum_year: 2023
 alum_role: MS
