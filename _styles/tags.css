@@ -30,4 +30,27 @@
   background: var(--light-gray);
 }
 
+.publication-filters {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.publication-filters .tags {
+  margin: 0;
+}
+
+.publication-filter-reset {
+  background: var(--primary);
+  color: var(--background);
+}
+
+.publication-filter-reset:hover {
+  background: var(--text);
+  color: var(--background);
+}
+
 /*# sourceMappingURL=tags.css.map */
