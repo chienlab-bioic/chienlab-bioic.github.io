@@ -24,7 +24,7 @@ Our group's research focuses on integrated circuits and their convergence with b
       include figure.html
       width = "100%"
       image = "images/lab_dinner_group_gathering.jpg"
-      caption = "2024 Spring Group gathering!"
+      caption = "2024 Spring Group Gathering"
     %}
     
   </div>
@@ -33,8 +33,8 @@ Our group's research focuses on integrated circuits and their convergence with b
     {%
       include figure.html
       width = "100%"
-      image = "images/lab_dinner_yt_farewell.jpg"
-      caption = "Lab dinner for visiting scholar Yan-Ting!"
+      image = "images/lab-gathering-2026-fall.jpg"
+      caption = "2026 Fall Group Gathering"
     %}
   </div>
 
@@ -59,7 +59,7 @@ Our group's research focuses on integrated circuits and their convergence with b
       include figure.html
       width = "100%"
       image = "images/bsac_sp26.png"
-      caption = "2026 Spring BSAC IAB Poster Session!"
+      caption = "2026 Spring BSAC IAB Poster Session"
     %}
   </div>
 
