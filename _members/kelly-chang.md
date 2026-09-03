@@ -3,7 +3,7 @@ name: Kelly Chang
 image: images/members/kelly-chang.JPG
 role: phd
 group: RF
-grade: 1
+grade: 2
 links:
   
 ---
