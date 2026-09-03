@@ -1,5 +1,5 @@
 ---
-name: Ya-Chen Tsai
+name: Ya-Chen (Justine) Tsai
 image: images/members/justine_photo.png
 role: phd
 group: Bio
